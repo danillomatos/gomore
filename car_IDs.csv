@@ -1,0 +1,4039 @@
+Car ID,Car Name,Keyless,Quick Booking
+232951,Peugeot 308 SW,True,True
+212758,Skoda Scala,True,True
+218383,DS 3 Crossback,True,True
+215823,Peugeot 208,True,True
+192454,Renault Clio SW,True,True
+108871,Peugeot 208,True,True
+136348,Citroen C1,True,True
+190205,Citroen C4 Cactus,True,True
+135039,Citroen C1,True,True
+198679,Renault Clio HB,True,True
+137297,Citroën C1,True,True
+132868,Peugeot 208,True,True
+171091,Citroen C1,True,True
+209809,Citroën C1,True,True
+221378,Hyundai i10,True,True
+230903,Peugeot 107,True,True
+232380,Ford Fiesta,True,True
+229585,Citroën C1,True,True
+234222,Renault Twingo,False,True
+209495,Dacia Sandero,True,True
+225759,Dacia Sandero,True,True
+212854,Opel Astra,True,False
+125176,Peugeot 308,True,False
+227277,Peugeot 208,True,True
+201867,Renault Twingo,True,True
+231216,Citroën C1,True,True
+223080,Peugeot 107,True,True
+230024,Citroën C1,True,True
+209489,Peugeot 208,True,False
+220502,Seat Leon,True,True
+230234,Opel Corsa,True,True
+232281,Peugeot 208,True,True
+218186,Opel Crossland X,True,True
+229753,Renault Clio SW,True,True
+205944,Renault Clio HB,False,True
+197977,Citroën C1,False,True
+213199,Peugeot 108,False,True
+205994,Peugeot 208,False,True
+131749,Toyota AYGO,False,True
+203255,Renault Clio HB,True,True
+233423,Hyundai i10,True,False
+228255,Opel Crossland X,True,True
+223427,Skoda Scala,True,True
+215842,Peugeot 108,False,True
+228587,Citroën C4 Cactus,True,True
+230316,Opel Insignia,True,True
+205406,Ford Focus,True,True
+215160,Dacia Sandero,False,True
+185408,Seat Ibiza,True,True
+232803,Tesla Model 3,False,True
+227968,Peugeot 308 SW,True,True
+231387,Opel Crossland X,True,True
+199323,Citroën C3,True,True
+222090,Peugeot 208,True,True
+229644,Opel Corsa,True,True
+216643,Hyundai i20,True,True
+135387,Renault Clio,True,True
+212979,Renault Clio SW,True,True
+127503,Peugeot 208,True,True
+230394,Citroën C1,True,True
+146883,Citroen C3,True,True
+223389,Renault Clio SW,True,True
+170304,Hyundai i10,True,True
+212188,Renault Clio HB,True,True
+196772,Renault Clio SW,True,True
+227037,Peugeot 208,True,True
+199701,Hyundai i20,True,True
+198133,Citroën C1,True,True
+206910,Renault Clio SW,True,True
+226370,Renault Clio SW,True,True
+227538,Peugeot 208,True,True
+173455,Peugeot 208,True,True
+233039,Hyundai i20,True,True
+181186,Citroen C3,True,True
+149616,Citroen C4,True,True
+143321,Renault Clio SW,True,True
+230126,Volkswagen UP!,True,True
+230796,Seat Mii,False,True
+219473,Seat Leon,True,True
+144665,Peugeot 208,True,True
+168585,Citroen C4 Cactus,True,True
+234368,Citroën C1,False,True
+234077,Peugeot 107,False,True
+15659,Renault Clio SW,False,False
+203113,Peugeot 208,True,True
+186205,Peugeot 208,True,True
+114708,Peugeot 208,True,True
+192131,Citroen C3,True,True
+231261,Ford Fiesta,False,False
+218825,Hyundai i10,True,True
+139791,Renault Clio,True,True
+199349,Peugeot 208,True,True
+224329,Renault Clio HB,True,False
+223035,Citroën Grand C4 Picasso,True,True
+231266,Citroën C3,True,True
+114430,Fiat Grande Punto,False,True
+215036,Renault Clio SW,True,True
+163951,Citroen C3,True,True
+226824,Renault Clio HB,True,True
+231979,Opel Corsa,True,True
+196734,Citroën C3,True,True
+162779,Hyundai Getz,False,True
+225971,Ford Focus,True,False
+123956,Citroen C1,True,True
+134638,Renault Clio,True,True
+233399,Renault Clio HB,False,False
+225483,Citroën C1,True,False
+115527,Peugeot 208,True,True
+216606,Renault Clio SW,True,True
+215321,Renault Megane,True,True
+169507,Renault Twingo,True,True
+229159,Citroën C1,True,True
+216536,Renault Megane,True,True
+199960,Peugeot 107,True,True
+222111,Citroën C3,True,False
+230443,Opel Corsa,True,True
+230076,Peugeot 208,True,True
+227095,Citroën C3,True,True
+207896,Renault Megane,True,True
+69487,Peugeot 107,True,True
+165788,Toyota AYGO,True,True
+120267,Renault Clio,True,False
+234456,Toyota AYGO,False,True
+210908,Renault Megane,True,True
+174955,Citroen C3,True,False
+187833,Renault Clio SW,True,True
+171020,Renault Clio SW,True,False
+231222,Citroën C1,True,True
+133352,Citroen C1,True,True
+112155,Citroen C1,True,True
+206482,Peugeot 308,True,True
+214492,Renault Megane,True,True
+33687,Citroën C3,True,True
+218302,Citroën C1,True,False
+130671,Renault Clio SW,True,True
+85222,Fiat 500,True,True
+214027,Skoda Octavia,True,True
+217879,Renault Clio SW,True,True
+209330,Hyundai i20,True,False
+210367,Citroën C3,True,False
+189364,Renault Megane,True,True
+141384,Ford Transit,False,True
+199993,Peugeot 308,True,True
+160801,Tesla Model 3,False,False
+209504,Renault Megane,True,True
+148130,Opel Crossland X,True,False
+74796,Citroen C1,True,True
+128955,Peugeot 208,True,False
+135618,Renault Clio,True,True
+219319,Peugeot 308 SW,True,False
+133626,Renault Clio,True,False
+220238,Renault Clio SW,True,True
+230797,BMW X1,False,True
+2741,Citroen C1,True,True
+218155,Renault Clio HB,True,False
+143936,Peugeot 208,True,False
+226139,Mercedes Vito,False,True
+215583,Opel Crossland X,True,True
+32095,Volkswagen UP!,True,True
+133388,Renault Clio HB,True,False
+45889,Volkswagen UP,True,True
+199375,Hyundai i20,True,False
+208565,Opel Corsa,True,False
+220333,Ford Focus,True,False
+50980,Peugeot 208,True,True
+207918,Renault Clio HB,True,False
+224686,Citroën C1,True,False
+214085,Renault Captur,True,False
+217940,Renault Clio SW,True,False
+228833,Hyundai i10,True,False
+214906,Peugeot 208,True,False
+223181,Renault Clio HB,True,False
+134640,Renault Clio SW,True,True
+230072,Renault Clio SW,True,False
+166966,Peugeot Partner,False,True
+127934,Renault Clio SW,True,False
+213007,Peugeot 208,True,True
+223717,Citroën C4 Cactus,True,False
+41293,Hyundai i10,True,True
+226436,Peugeot 208,True,False
+230605,Opel Crossland X,True,False
+215479,Audi A1,False,False
+122121,Citroen C4 Cactus,True,True
+214285,Opel Crossland X,True,False
+208416,Peugeot 208,True,False
+205081,Ford Focus,True,False
+132628,Renault Clio,True,False
+146053,Peugeot 208,True,False
+211575,Citroën C3,True,False
+4623,Renault Clio SW,True,True
+213539,Citroën C1,True,True
+187010,Citroen C1,True,True
+208639,Renault Clio HB,False,True
+218184,Renault Clio SW,True,False
+214366,Ford Focus,True,False
+233301,Citroën C1,False,False
+230920,Toyota Yaris,False,False
+234398,Alfa Romeo Giulia,False,False
+224771,Opel Astra,False,True
+230274,Peugeot 208,True,False
+210872,Renault Captur,True,False
+122154,Citroen C4 Cactus,True,True
+152577,Ford Focus,True,True
+33550,Citroen C3,True,False
+227364,Citroën C3,True,False
+226502,Seat Leon,True,False
+233817,Citroën C4 Cactus,False,False
+230676,Suzuki Baleno,False,False
+220722,Citroën C1,False,True
+222014,Citroën C4 Cactus,True,False
+214816,Audi A6,False,False
+230593,Opel Corsa,True,True
+134478,Peugeot 208,True,False
+209081,Renault Clio HB,True,True
+146729,Renault Clio SW,True,False
+211785,Renault Clio HB,True,False
+211028,Renault Clio SW,True,False
+194568,Citroën C1,True,True
+215472,Citroën C3,True,False
+230407,Renault Trafic,True,True
+214468,Renault Clio HB,True,False
+229935,Citroën C3,False,True
+232070,Citroën C1,True,True
+232151,Tesla Model 3,False,False
+227256,Citroën C4 Cactus,True,False
+233430,Tesla Model 3,False,True
+233109,Peugeot 206,False,False
+131333,Renault Clio,True,False
+229106,Opel Karl,True,False
+227869,Opel Corsa,True,False
+57307,Opel Corsa,True,True
+226352,Ford Transit,False,False
+107052,Renault Master,True,False
+137201,Peugeot Boxer,True,False
+207700,Citroën C1,True,False
+232879,Volkswagen Touran,False,False
+84134,Opel Corsa,True,True
+221280,Renault Clio SW,True,False
+210658,Seat Ibiza,True,False
+233331,Fiat Punto,False,False
+219880,Renault Clio SW,True,True
+230896,Kia Rio,False,False
+233285,Skoda Karoq,False,False
+185066,Skoda Octavia,True,False
+212777,Ford S-MAX,False,False
+230446,Renault Clio HB,True,False
+124296,Citroën C3,True,False
+212963,Opel Astra,True,False
+211071,Renault Clio SW,True,True
+205131,Renault Captur,True,False
+146340,Peugeot 208,True,False
+166246,Citroen C4 Cactus,True,True
+218547,Opel Crossland X,True,False
+232949,Volkswagen Polo,False,False
+168917,Citroen C3,False,True
+231685,Renault Clio SW,False,False
+199501,Tesla Model S,False,False
+231233,Renault Master,False,True
+120418,Peugeot 208,True,False
+231363,Seat Ibiza ST,False,False
+234356,Opel Corsa,False,False
+231336,Fiat Punto,False,False
+225570,Renault Clio HB,True,False
+231231,Renault Master,False,True
+218097,Renault Clio SW,True,True
+231746,Peugeot 208,True,True
+89434,Skoda Citigo,False,True
+214535,Renault Clio SW,True,False
+83334,Ford Focus,True,False
+99213,Renault Captur,True,False
+212259,Peugeot 208,True,False
+163683,Peugeot 308,True,False
+134653,Citroen C3,True,False
+114592,Renault Clio,True,False
+230240,Citroën C1,True,False
+226374,Renault Clio SW,True,False
+232420,Hyundai i20,False,False
+195682,Citroën C3,True,False
+177312,Renault Clio HB,False,True
+135695,Renault Captur,True,False
+232033,BMW 1 Series,False,False
+221284,Chevrolet Spark,False,True
+186215,Volvo V70,False,True
+216172,Skoda Octavia,False,True
+223574,Peugeot 208,False,False
+218099,Suzuki Swift,False,True
+208913,Citroën C1,False,True
+154170,Citroen C4 Cactus,False,True
+215320,Skoda Scala,True,False
+230749,Opel Corsa,True,False
+219420,Peugeot 208,True,False
+136226,Citroen C3,True,True
+90466,Renault Megane,True,False
+230639,Jeep Compass,False,False
+234202,Ford Fiesta,False,True
+230858,Skoda Citigo,False,True
+127062,Kia Picanto,False,True
+135245,Peugeot 3008,True,False
+144096,Peugeot 208,True,False
+222833,Opel Grandland X,False,True
+210316,Citroën C1,True,True
+206912,Citroën C1,True,True
+130484,Peugeot 107,True,True
+144252,Ford Focus,True,False
+143203,Citroen C1,True,False
+27891,Mercedes Viano,False,True
+231536,Honda Jazz,False,False
+70268,Toyota Yaris,False,True
+220412,Citroën C1,True,False
+223443,Citroën C1,True,False
+204732,Peugeot 308,False,True
+233938,Tesla Model 3,False,True
+204804,Renault Clio HB,False,False
+226338,Hyundai Accent,False,True
+230580,MINI Cooper,False,True
+232579,Dacia Lodgy,False,False
+219483,Hyundai Accent,False,True
+216068,Ford Ka,False,True
+130391,Citroen C1,True,True
+208439,Opel Adam,False,True
+225722,Ford Fiesta,False,True
+206423,Peugeot 208,False,True
+215384,Citroën C3,False,True
+233024,Ford C-Max,False,False
+57867,Peugeot 208,True,False
+221738,Peugeot 208,True,False
+204740,Volkswagen UP!,False,True
+229921,Mazda MX-5,False,False
+214786,Renault Clio HB,False,False
+223673,Volkswagen UP!,False,True
+222604,Peugeot 107,False,True
+226291,Citroën C4 Cactus,False,False
+224216,Citroën C1,False,True
+200507,Renault Clio SW,False,False
+232571,Ford Transit,False,False
+216940,Renault Clio SW,True,False
+219651,Opel Corsa,True,False
+146909,Chevrolet Tacuma,False,True
+208450,Peugeot 2008,False,True
+219666,Peugeot 208,True,True
+162527,Peugeot 308,True,False
+215250,Renault Clio HB,True,False
+207228,Ford Fiesta,False,True
+234247,Peugeot 208,False,False
+208233,Citroën C1,True,False
+221345,Ford Transit,False,False
+124417,Suzuki Splash,False,True
+206136,Volvo V40,False,True
+230257,Renault Grand Scenic,False,True
+234372,Volkswagen UP!,False,True
+220918,Peugeot 208,False,True
+234236,Kia Picanto,False,True
+119301,Peugeot 108,False,True
+160869,Toyota Corolla,False,True
+221427,Peugeot 208,False,True
+219245,Renault Clio SW,True,False
+230799,Fiat Panda,False,False
+223388,Peugeot 208,True,False
+216790,Ford C-Max,False,True
+115918,Peugeot 208,True,False
+204382,Citroën C3,True,False
+227856,Suzuki Baleno,False,True
+228193,Citroën C3,False,False
+209593,Mercedes Vito,False,False
+216530,Chevrolet Aveo,False,True
+139811,Citroen C1,True,False
+210913,Renault Grand Scenic,False,True
+211484,Kia Picanto,False,True
+153726,Peugeot 107,True,True
+230750,Toyota AYGO,False,True
+222024,Renault Clio SW,False,True
+222600,Volkswagen Touran,False,True
+226138,Mitsubishi Colt,False,True
+222757,Suzuki Swift,False,True
+129613,Hyundai i10,True,True
+193327,Kia Ceed,False,True
+143289,Peugeot 208,True,False
+226264,Suzuki Swift,False,True
+200593,Ford Fiesta,False,False
+212755,Jaguar XF,False,True
+226873,Renault Clio HB,True,False
+116631,Ford Ka,False,True
+192488,Toyota AYGO,False,True
+207030,Toyota AYGO,False,True
+201629,Nissan Note,False,True
+209429,Peugeot 5008,False,False
+148349,Hyundai i20,True,True
+125424,Renault Clio,True,False
+103101,Citroen Berlingo,False,True
+59343,Peugeot 107,False,True
+133368,Citroen C4 Cactus,True,False
+110249,Toyota AYGO,False,True
+223313,Renault Captur,False,False
+223224,Volkswagen UP!,False,True
+205521,Peugeot 207 SW,False,True
+36571,Citroen C3,True,False
+26579,Renault Clio,True,False
+135763,Peugeot 208,True,False
+230976,Peugeot 207 SW,False,True
+210627,Citroën C4 Picasso,False,True
+203148,Opel Karl,False,True
+222924,Citroën C3,False,False
+199846,Audi A5,False,True
+17027,Renault Clio,False,True
+215971,Citroën C3,False,False
+231792,Skoda Octavia,False,False
+133079,Renault Clio HB,True,False
+208288,Peugeot 107,False,True
+225729,Citroën C1,False,True
+225869,Fiat 500,False,True
+138632,Renault Clio,False,False
+205966,Volkswagen Golf,False,True
+232111,Alfa Romeo MiTo,False,False
+166378,Renault Megane,True,True
+189983,Citroen DS3,False,True
+43948,Chevrolet Spark,False,True
+215257,Skoda Fabia,False,True
+175034,Renault Clio SW,True,False
+137952,Citroen C3,True,False
+106258,Ford Fiesta,False,True
+210955,Renault Clio SW,False,False
+89923,Citroen C1,True,True
+197029,Skoda Fabia,False,True
+195508,Kia Carens,False,True
+221189,Mazda 2,False,True
+226803,Citroën C3,False,False
+228596,Peugeot 208,False,False
+169810,Nissan Qashqai,False,True
+119747,Citroen C1,False,True
+204151,Hyundai i10,True,False
+227930,Citroën C3,False,False
+179672,Volvo V70,False,True
+138755,Fiat 500,False,True
+166641,Renault Zoe,False,False
+181296,Dacia Logan,True,False
+201627,Peugeot 107,False,True
+113176,Dacia Logan,True,False
+229337,Toyota Corolla,False,True
+233190,Peugeot 208,True,False
+43943,Peugeot Partner,False,True
+203148,Opel Karl,False,True
+222924,Citroën C3,False,False
+199846,Audi A5,False,True
+17027,Renault Clio,False,True
+215971,Citroën C3,False,False
+231792,Skoda Octavia,False,False
+133079,Renault Clio HB,True,False
+208288,Peugeot 107,False,True
+225729,Citroën C1,False,True
+225869,Fiat 500,False,True
+138632,Renault Clio,False,False
+205966,Volkswagen Golf,False,True
+232111,Alfa Romeo MiTo,False,False
+166378,Renault Megane,True,True
+189983,Citroen DS3,False,True
+43948,Chevrolet Spark,False,True
+215257,Skoda Fabia,False,True
+175034,Renault Clio SW,True,False
+137952,Citroen C3,True,False
+106258,Ford Fiesta,False,True
+210955,Renault Clio SW,False,False
+89923,Citroen C1,True,True
+197029,Skoda Fabia,False,True
+195508,Kia Carens,False,True
+221189,Mazda 2,False,True
+226803,Citroën C3,False,False
+228596,Peugeot 208,False,False
+169810,Nissan Qashqai,False,True
+119747,Citroen C1,False,True
+204151,Hyundai i10,True,False
+227930,Citroën C3,False,False
+179672,Volvo V70,False,True
+138755,Fiat 500,False,True
+166641,Renault Zoe,False,False
+181296,Dacia Logan,True,False
+201627,Peugeot 107,False,True
+113176,Dacia Logan,True,False
+229337,Toyota Corolla,False,True
+233190,Peugeot 208,True,False
+43943,Peugeot Partner,False,True
+203148,Opel Karl,False,True
+222924,Citroën C3,False,False
+199846,Audi A5,False,True
+17027,Renault Clio,False,True
+215971,Citroën C3,False,False
+231792,Skoda Octavia,False,False
+133079,Renault Clio HB,True,False
+208288,Peugeot 107,False,True
+225729,Citroën C1,False,True
+225869,Fiat 500,False,True
+138632,Renault Clio,False,False
+205966,Volkswagen Golf,False,True
+232111,Alfa Romeo MiTo,False,False
+166378,Renault Megane,True,True
+189983,Citroen DS3,False,True
+43948,Chevrolet Spark,False,True
+215257,Skoda Fabia,False,True
+175034,Renault Clio SW,True,False
+137952,Citroen C3,True,False
+106258,Ford Fiesta,False,True
+210955,Renault Clio SW,False,False
+89923,Citroen C1,True,True
+197029,Skoda Fabia,False,True
+195508,Kia Carens,False,True
+221189,Mazda 2,False,True
+226803,Citroën C3,False,False
+228596,Peugeot 208,False,False
+169810,Nissan Qashqai,False,True
+119747,Citroen C1,False,True
+204151,Hyundai i10,True,False
+227930,Citroën C3,False,False
+179672,Volvo V70,False,True
+138755,Fiat 500,False,True
+166641,Renault Zoe,False,False
+181296,Dacia Logan,True,False
+201627,Peugeot 107,False,True
+113176,Dacia Logan,True,False
+229337,Toyota Corolla,False,True
+233190,Peugeot 208,True,False
+43943,Peugeot Partner,False,True
+203148,Opel Karl,False,True
+222924,Citroën C3,False,False
+199846,Audi A5,False,True
+17027,Renault Clio,False,True
+215971,Citroën C3,False,False
+231792,Skoda Octavia,False,False
+133079,Renault Clio HB,True,False
+208288,Peugeot 107,False,True
+225729,Citroën C1,False,True
+225869,Fiat 500,False,True
+138632,Renault Clio,False,False
+205966,Volkswagen Golf,False,True
+232111,Alfa Romeo MiTo,False,False
+166378,Renault Megane,True,True
+189983,Citroen DS3,False,True
+43948,Chevrolet Spark,False,True
+215257,Skoda Fabia,False,True
+175034,Renault Clio SW,True,False
+137952,Citroen C3,True,False
+106258,Ford Fiesta,False,True
+210955,Renault Clio SW,False,False
+89923,Citroen C1,True,True
+197029,Skoda Fabia,False,True
+195508,Kia Carens,False,True
+221189,Mazda 2,False,True
+226803,Citroën C3,False,False
+228596,Peugeot 208,False,False
+169810,Nissan Qashqai,False,True
+119747,Citroen C1,False,True
+204151,Hyundai i10,True,False
+227930,Citroën C3,False,False
+179672,Volvo V70,False,True
+138755,Fiat 500,False,True
+166641,Renault Zoe,False,False
+181296,Dacia Logan,True,False
+201627,Peugeot 107,False,True
+113176,Dacia Logan,True,False
+229337,Toyota Corolla,False,True
+233190,Peugeot 208,True,False
+43943,Peugeot Partner,False,True
+203148,Opel Karl,False,True
+222924,Citroën C3,False,False
+199846,Audi A5,False,True
+17027,Renault Clio,False,True
+215971,Citroën C3,False,False
+231792,Skoda Octavia,False,False
+133079,Renault Clio HB,True,False
+208288,Peugeot 107,False,True
+225729,Citroën C1,False,True
+225869,Fiat 500,False,True
+138632,Renault Clio,False,False
+205966,Volkswagen Golf,False,True
+232111,Alfa Romeo MiTo,False,False
+166378,Renault Megane,True,True
+189983,Citroen DS3,False,True
+43948,Chevrolet Spark,False,True
+215257,Skoda Fabia,False,True
+175034,Renault Clio SW,True,False
+137952,Citroen C3,True,False
+106258,Ford Fiesta,False,True
+210955,Renault Clio SW,False,False
+89923,Citroen C1,True,True
+197029,Skoda Fabia,False,True
+195508,Kia Carens,False,True
+221189,Mazda 2,False,True
+226803,Citroën C3,False,False
+228596,Peugeot 208,False,False
+169810,Nissan Qashqai,False,True
+119747,Citroen C1,False,True
+204151,Hyundai i10,True,False
+227930,Citroën C3,False,False
+179672,Volvo V70,False,True
+138755,Fiat 500,False,True
+166641,Renault Zoe,False,False
+181296,Dacia Logan,True,False
+201627,Peugeot 107,False,True
+113176,Dacia Logan,True,False
+229337,Toyota Corolla,False,True
+233190,Peugeot 208,True,False
+43943,Peugeot Partner,False,True
+203148,Opel Karl,False,True
+222924,Citroën C3,False,False
+199846,Audi A5,False,True
+17027,Renault Clio,False,True
+215971,Citroën C3,False,False
+231792,Skoda Octavia,False,False
+133079,Renault Clio HB,True,False
+208288,Peugeot 107,False,True
+225729,Citroën C1,False,True
+225869,Fiat 500,False,True
+138632,Renault Clio,False,False
+205966,Volkswagen Golf,False,True
+232111,Alfa Romeo MiTo,False,False
+166378,Renault Megane,True,True
+189983,Citroen DS3,False,True
+43948,Chevrolet Spark,False,True
+215257,Skoda Fabia,False,True
+175034,Renault Clio SW,True,False
+137952,Citroen C3,True,False
+106258,Ford Fiesta,False,True
+210955,Renault Clio SW,False,False
+89923,Citroen C1,True,True
+197029,Skoda Fabia,False,True
+195508,Kia Carens,False,True
+221189,Mazda 2,False,True
+226803,Citroën C3,False,False
+228596,Peugeot 208,False,False
+169810,Nissan Qashqai,False,True
+119747,Citroen C1,False,True
+204151,Hyundai i10,True,False
+227930,Citroën C3,False,False
+179672,Volvo V70,False,True
+138755,Fiat 500,False,True
+166641,Renault Zoe,False,False
+181296,Dacia Logan,True,False
+201627,Peugeot 107,False,True
+113176,Dacia Logan,True,False
+229337,Toyota Corolla,False,True
+233190,Peugeot 208,True,False
+43943,Peugeot Partner,False,True
+226354,Hyundai i10,False,True
+120361,Renault Grand Scenic,False,False
+200691,Citroën Berlingo,False,False
+149145,Mazda 5,False,False
+217267,Mini Clubman,False,False
+225123,Volkswagen UP!,False,False
+225771,Volkswagen UP!,False,False
+211218,Renault Trafic,False,True
+231722,Mazda 2,False,False
+219213,Volkswagen Polo,False,False
+209474,Chevrolet Spark,False,True
+228237,Renault Clio SW,False,False
+230853,Peugeot 208,True,False
+232718,Hyundai i10,False,False
+217773,Toyota Yaris,False,False
+208444,Toyota AYGO,False,False
+227841,Ford Fiesta,False,False
+232383,Toyota Yaris,False,False
+105383,Skoda Rapid,True,False
+149533,Peugeot 208,False,False
+209187,Renault Clio HB,False,True
+224701,Opel Karl,False,False
+198747,Volkswagen UP!,False,False
+126811,Skoda Citigo,False,False
+88667,Peugeot 207,False,True
+208052,Volkswagen Transporter,False,True
+224331,Peugeot 208,False,False
+225137,Opel Corsa,False,False
+65982,Volkswagen UP!,False,False
+191429,Ford Focus,False,False
+211242,Opel Astra,False,False
+224862,Renault Master,False,False
+224866,Mercedes Vito,False,False
+224864,Fiat Ducato,False,False
+224863,Mercedes Sprinter,False,False
+224515,Peugeot Expert,False,False
+218443,Citroën C3,False,False
+203601,Tesla Model S,False,True
+191777,Ford Ka,False,True
+222409,Peugeot 2008,False,False
+191000,Renault Zoe,False,False
+222478,Suzuki Swift,False,False
+111654,Skoda Octavia,False,True
+227950,Tesla Model 3,False,False
+209101,Volkswagen Polo,False,False
+131564,Volkswagen UP,False,False
+194677,Ford Focus,False,False
+222330,Peugeot 108,False,False
+221876,Honda Civic,False,False
+222944,Skoda Citigo,False,False
+132149,Citroen C4 Cactus,False,False
+196536,Toyota AYGO,False,False
+117651,Toyota Yaris,False,False
+211507,Renault Clio HB,False,False
+226424,Hyundai i10,False,False
+226252,Opel Astra,False,False
+210702,Toyota Yaris,False,False
+227695,Toyota AYGO,False,False
+53908,Citroën C4 Picasso,False,False
+208419,Toyota AYGO,False,True
+221672,Citroën C3,False,False
+185393,Audi A4,False,True
+184196,Audi A4,False,True
+223688,Renault Clio HB,False,False
+17232,Toyota Yaris,False,True
+205874,Mercedes A-Class,False,False
+75534,Fiat 500,False,False
+118727,Jaguar XF,False,False
+127386,Hyundai i20,False,False
+221327,Toyota Yaris,False,False
+131468,Opel Crossland X,True,False
+218704,Seat Ibiza ST,True,False
+211175,Volkswagen Sharan,False,False
+104644,Renault Clio,False,True
+127650,Skoda Citigo,False,False
+207814,Ford Fiesta,False,False
+222775,Tesla Model 3,False,False
+142224,Volkswagen T-Cross,False,False
+225015,Fiat Grande Punto,False,False
+207734,Citroën C1,False,False
+129638,Citroën Xsara Picasso,False,True
+50798,Opel Corsa,False,False
+219721,Mitsubishi ASX,False,False
+221148,Peugeot 108,False,False
+206308,Peugeot 208,False,False
+215879,Volkswagen UP!,False,False
+210243,Opel Karl,True,False
+219214,Renault Clio SW,False,False
+115984,Skoda Fabia,False,False
+108777,Peugeot 107,False,True
+221050,Volkswagen Passat CC,False,False
+232180,Skoda Fabia,False,False
+199576,Volvo V70,False,False
+224661,Renault Megane,False,False
+227422,Fiat 500C,False,False
+219255,Peugeot 2008,False,False
+70796,Hyundai i20,False,False
+220615,Nissan Qashqai,False,True
+230108,Citroën C1,False,False
+195817,Kia Picanto,False,False
+82899,Citroën C4 Picasso,False,False
+217675,Skoda Fabia,False,False
+224590,Skoda Fabia,False,False
+226586,Citroën C1,False,False
+198003,Skoda Fabia,False,False
+138717,Peugeot 308,False,False
+212011,Citroën Berlingo,False,False
+102466,Citroen Berlingo,False,False
+122289,Citroen Berlingo,False,False
+207600,Citroën C3,False,False
+719,Skoda Octavia,False,True
+87797,Mercedes Viano,False,False
+234422,Opel Meriva,False,False
+146312,Renault Clio HB,False,False
+227337,Citroën C1,False,False
+144810,Peugeot 308,False,False
+216550,Opel Astra,False,False
+229401,Mitsubishi Space Star,False,False
+42844,Citroen C3,False,True
+30271,Kia Picanto,False,True
+123209,Toyota Yaris,False,False
+77647,Nissan Micra,False,False
+227579,Ford Fiesta,False,True
+225153,Skoda Fabia,False,False
+225151,Skoda Fabia,False,False
+133954,Hyundai i10,False,False
+211710,Ford Focus,False,False
+224291,Hyundai i20,False,False
+171681,Peugeot 308,False,False
+223665,Ford C-Max,False,False
+209599,Tesla Model 3,False,False
+159915,Renault Clio HB,False,False
+145291,Tesla Model 3,False,False
+176270,Peugeot 308,True,False
+220032,Mercedes A-Class,False,False
+220725,Renault Megane,False,False
+223695,Citroën C1,False,False
+115153,Ford C-Max,False,True
+206264,BMW i3,False,False
+203746,Volkswagen UP!,False,False
+208981,Tesla Model S,False,True
+224283,Mitsubishi ASX,False,False
+226084,Chevrolet Nubira,False,False
+209571,Renault Clio SW,False,False
+227185,Ford Fiesta,False,False
+220236,Toyota C-HR,False,False
+233962,Peugeot 108,False,False
+107858,Suzuki Grand Vitara,False,False
+187575,Renault Clio HB,False,True
+115959,Ford Fiesta,False,False
+227524,Volkswagen UP!,False,False
+233723,Opel Corsa,False,True
+217348,Skoda Citigo,False,False
+130106,Hyundai i30,False,False
+230371,Skoda Citigo,False,False
+28851,Nissan LEAF,False,False
+142378,Ford Fiesta,False,False
+224919,Volvo V40,False,False
+227951,Opel Corsa,False,False
+20923,Peugeot 208,False,True
+45924,Suzuki Splash,False,False
+200591,Honda Civic,False,False
+103575,Peugeot 206,False,False
+228622,Kia Rio,False,True
+212316,Toyota Yaris,False,True
+202497,Kia Picanto,False,False
+117662,Volkswagen Fox,False,False
+109019,Citroen Berlingo,False,False
+191883,Citroen Berlingo,False,False
+209079,Volkswagen Transporter,False,True
+160482,Citroen C3,False,False
+122307,Peugeot 208,False,False
+127521,Tesla Model 3,False,False
+66151,Ford Focus,False,False
+212057,Nissan Pixo,False,False
+228362,Hyundai Ioniq,False,False
+50116,Volkswagen UP,False,False
+204876,Renault Clio SW,False,False
+119555,Peugeot 308,False,False
+213751,Kia Rio,False,True
+228074,Chevrolet Spark,False,False
+206324,Peugeot 3008,False,False
+211889,Kia Picanto,False,True
+133660,Citroen C1,False,False
+84674,Opel Insignia,False,False
+86369,Citroën C4 Cactus,False,False
+41659,Dacia Lodgy,False,False
+216295,Toyota AYGO,False,False
+189467,Citroen C4 Picasso,False,False
+213023,Ford Transit,False,False
+210711,Citroën Grand C4 Picasso,False,False
+217862,Citroën Grand C4 Picasso,False,False
+192841,Ford Transit,False,False
+155078,Audi A3,False,False
+129432,Toyota AYGO,False,True
+52603,Toyota Yaris,False,True
+36005,Peugeot 308,False,False
+215199,Peugeot 208,False,False
+230417,Ford Fiesta,False,True
+224432,Citroën C4,False,False
+188195,Hyundai i10,False,False
+79852,Chevrolet Spark,False,False
+201269,Hyundai i20,False,False
+222416,Peugeot 308 SW,False,False
+182765,Hyundai i30,False,False
+162699,Toyota AYGO,False,False
+218352,Volkswagen Golf,False,False
+226080,Nissan Micra,False,False
+182558,Suzuki Celerio,False,False
+33519,Toyota Yaris,False,True
+75401,Volkswagen Golf,True,False
+213659,Hyundai i30,False,True
+81493,Seat Leon,False,True
+59646,Toyota AYGO,False,False
+76600,Peugeot 107,False,False
+52352,Citroen C1,False,False
+209516,Renault Clio SW,True,False
+68651,Suzuki Celerio,False,False
+232663,Kia Picanto,False,False
+199526,Tesla Model S,False,False
+138234,Volkswagen UP,False,True
+138465,Tesla Model 3,False,False
+70952,Kia Ceed,False,False
+222892,Kia Rio,False,False
+209062,Peugeot 208,True,False
+143262,Peugeot 208,True,False
+126348,Opel Crossland X,False,True
+229938,Mazda 6,False,True
+130428,Peugeot 208,False,False
+101752,Volkswagen Fox,False,False
+117812,Volkswagen Fox,False,False
+209905,Volkswagen Fox,False,False
+104348,Citroen C1,False,False
+80249,Peugeot 208,False,False
+187218,Peugeot 3008,False,False
+144044,Citroen C1,False,False
+172733,Opel Astra,False,False
+94434,Fiat 500,False,False
+117683,Hyundai i10,False,True
+219453,Volvo V60,False,False
+188195,Hyundai i10,False,False
+79852,Chevrolet Spark,False,False
+201269,Hyundai i20,False,False
+222416,Peugeot 308 SW,False,False
+182765,Hyundai i30,False,False
+162699,Toyota AYGO,False,False
+218352,Volkswagen Golf,False,False
+226080,Nissan Micra,False,False
+182558,Suzuki Celerio,False,False
+33519,Toyota Yaris,False,True
+75401,Volkswagen Golf,True,False
+213659,Hyundai i30,False,True
+81493,Seat Leon,False,True
+59646,Toyota AYGO,False,False
+76600,Peugeot 107,False,False
+52352,Citroen C1,False,False
+209516,Renault Clio SW,True,False
+68651,Suzuki Celerio,False,False
+232663,Kia Picanto,False,False
+199526,Tesla Model S,False,False
+138234,Volkswagen UP,False,True
+138465,Tesla Model 3,False,False
+70952,Kia Ceed,False,False
+222892,Kia Rio,False,False
+209062,Peugeot 208,True,False
+143262,Peugeot 208,True,False
+126348,Opel Crossland X,False,True
+229938,Mazda 6,False,True
+130428,Peugeot 208,False,False
+101752,Volkswagen Fox,False,False
+117812,Volkswagen Fox,False,False
+209905,Volkswagen Fox,False,False
+104348,Citroen C1,False,False
+80249,Peugeot 208,False,False
+187218,Peugeot 3008,False,False
+144044,Citroen C1,False,False
+172733,Opel Astra,False,False
+94434,Fiat 500,False,False
+117683,Hyundai i10,False,True
+219453,Volvo V60,False,False
+188195,Hyundai i10,False,False
+79852,Chevrolet Spark,False,False
+201269,Hyundai i20,False,False
+222416,Peugeot 308 SW,False,False
+182765,Hyundai i30,False,False
+162699,Toyota AYGO,False,False
+218352,Volkswagen Golf,False,False
+226080,Nissan Micra,False,False
+182558,Suzuki Celerio,False,False
+33519,Toyota Yaris,False,True
+75401,Volkswagen Golf,True,False
+213659,Hyundai i30,False,True
+81493,Seat Leon,False,True
+59646,Toyota AYGO,False,False
+76600,Peugeot 107,False,False
+52352,Citroen C1,False,False
+209516,Renault Clio SW,True,False
+68651,Suzuki Celerio,False,False
+232663,Kia Picanto,False,False
+199526,Tesla Model S,False,False
+138234,Volkswagen UP,False,True
+138465,Tesla Model 3,False,False
+70952,Kia Ceed,False,False
+222892,Kia Rio,False,False
+209062,Peugeot 208,True,False
+143262,Peugeot 208,True,False
+126348,Opel Crossland X,False,True
+229938,Mazda 6,False,True
+130428,Peugeot 208,False,False
+101752,Volkswagen Fox,False,False
+117812,Volkswagen Fox,False,False
+209905,Volkswagen Fox,False,False
+104348,Citroen C1,False,False
+80249,Peugeot 208,False,False
+187218,Peugeot 3008,False,False
+144044,Citroen C1,False,False
+172733,Opel Astra,False,False
+94434,Fiat 500,False,False
+117683,Hyundai i10,False,True
+219453,Volvo V60,False,False
+188195,Hyundai i10,False,False
+79852,Chevrolet Spark,False,False
+201269,Hyundai i20,False,False
+222416,Peugeot 308 SW,False,False
+182765,Hyundai i30,False,False
+162699,Toyota AYGO,False,False
+218352,Volkswagen Golf,False,False
+226080,Nissan Micra,False,False
+182558,Suzuki Celerio,False,False
+33519,Toyota Yaris,False,True
+75401,Volkswagen Golf,True,False
+213659,Hyundai i30,False,True
+81493,Seat Leon,False,True
+59646,Toyota AYGO,False,False
+76600,Peugeot 107,False,False
+52352,Citroen C1,False,False
+209516,Renault Clio SW,True,False
+68651,Suzuki Celerio,False,False
+232663,Kia Picanto,False,False
+199526,Tesla Model S,False,False
+138234,Volkswagen UP,False,True
+138465,Tesla Model 3,False,False
+70952,Kia Ceed,False,False
+222892,Kia Rio,False,False
+209062,Peugeot 208,True,False
+143262,Peugeot 208,True,False
+126348,Opel Crossland X,False,True
+229938,Mazda 6,False,True
+130428,Peugeot 208,False,False
+101752,Volkswagen Fox,False,False
+117812,Volkswagen Fox,False,False
+209905,Volkswagen Fox,False,False
+104348,Citroen C1,False,False
+80249,Peugeot 208,False,False
+187218,Peugeot 3008,False,False
+144044,Citroen C1,False,False
+172733,Opel Astra,False,False
+94434,Fiat 500,False,False
+117683,Hyundai i10,False,True
+219453,Volvo V60,False,False
+23589,Peugeot 107,False,False
+44224,Skoda Citigo,False,False
+153644,Mazda 6,False,False
+132975,Tesla Model S,False,False
+165433,Alfa Romeo 156,False,False
+173484,Renault Grand Scenic,False,False
+24639,Chevrolet Orlando,False,False
+152570,Renault Clio SW,False,False
+233756,Skoda Roomster,False,False
+44354,Toyota AYGO,False,False
+115662,Peugeot 208,False,True
+115658,Kia Picanto,False,True
+129855,Citroen C4 Cactus,False,False
+221758,Peugeot 3008,False,True
+228252,Peugeot 308 SW,False,True
+214755,Renault Clio SW,False,False
+224002,Renault Twingo,False,True
+177081,Fiat Grande Punto,False,False
+233357,Citroën Grand C4 Picasso,False,False
+204784,Citroën C1,False,False
+133058,BMW 1 series,False,False
+78219,Audi A3,False,False
+82933,Audi A5,False,False
+110243,Hyundai i10,False,False
+27250,Seat Ibiza ST,False,False
+111353,Kia Picanto,False,False
+73953,Peugeot 308 CC,False,False
+204634,Peugeot Expert,False,True
+232483,Fiat Punto,False,False
+132791,Renault Talisman,False,False
+208553,Toyota Avensis,False,False
+72883,Skoda Citigo,False,False
+47519,Peugeot 108,False,False
+210663,Citroën C1,False,False
+212772,Fiat Punto,False,False
+205236,Citroën C3,True,False
+4600,Nissan Qashqai,False,False
+129874,Fiat 500,False,False
+136823,Skoda Citigo,False,False
+229836,Opel Crossland X,False,True
+23589,Peugeot 107,False,False
+44224,Skoda Citigo,False,False
+153644,Mazda 6,False,False
+132975,Tesla Model S,False,False
+165433,Alfa Romeo 156,False,False
+173484,Renault Grand Scenic,False,False
+24639,Chevrolet Orlando,False,False
+152570,Renault Clio SW,False,False
+233756,Skoda Roomster,False,False
+44354,Toyota AYGO,False,False
+115662,Peugeot 208,False,True
+115658,Kia Picanto,False,True
+129855,Citroen C4 Cactus,False,False
+221758,Peugeot 3008,False,True
+228252,Peugeot 308 SW,False,True
+214755,Renault Clio SW,False,False
+224002,Renault Twingo,False,True
+177081,Fiat Grande Punto,False,False
+233357,Citroën Grand C4 Picasso,False,False
+204784,Citroën C1,False,False
+133058,BMW 1 series,False,False
+78219,Audi A3,False,False
+82933,Audi A5,False,False
+110243,Hyundai i10,False,False
+27250,Seat Ibiza ST,False,False
+111353,Kia Picanto,False,False
+73953,Peugeot 308 CC,False,False
+204634,Peugeot Expert,False,True
+232483,Fiat Punto,False,False
+132791,Renault Talisman,False,False
+208553,Toyota Avensis,False,False
+72883,Skoda Citigo,False,False
+47519,Peugeot 108,False,False
+210663,Citroën C1,False,False
+212772,Fiat Punto,False,False
+205236,Citroën C3,True,False
+4600,Nissan Qashqai,False,False
+129874,Fiat 500,False,False
+136823,Skoda Citigo,False,False
+229836,Opel Crossland X,False,True
+23589,Peugeot 107,False,False
+44224,Skoda Citigo,False,False
+153644,Mazda 6,False,False
+132975,Tesla Model S,False,False
+165433,Alfa Romeo 156,False,False
+173484,Renault Grand Scenic,False,False
+24639,Chevrolet Orlando,False,False
+152570,Renault Clio SW,False,False
+233756,Skoda Roomster,False,False
+44354,Toyota AYGO,False,False
+115662,Peugeot 208,False,True
+115658,Kia Picanto,False,True
+129855,Citroen C4 Cactus,False,False
+221758,Peugeot 3008,False,True
+228252,Peugeot 308 SW,False,True
+214755,Renault Clio SW,False,False
+224002,Renault Twingo,False,True
+177081,Fiat Grande Punto,False,False
+233357,Citroën Grand C4 Picasso,False,False
+204784,Citroën C1,False,False
+133058,BMW 1 series,False,False
+78219,Audi A3,False,False
+82933,Audi A5,False,False
+110243,Hyundai i10,False,False
+27250,Seat Ibiza ST,False,False
+111353,Kia Picanto,False,False
+73953,Peugeot 308 CC,False,False
+204634,Peugeot Expert,False,True
+232483,Fiat Punto,False,False
+132791,Renault Talisman,False,False
+208553,Toyota Avensis,False,False
+72883,Skoda Citigo,False,False
+47519,Peugeot 108,False,False
+210663,Citroën C1,False,False
+212772,Fiat Punto,False,False
+205236,Citroën C3,True,False
+4600,Nissan Qashqai,False,False
+129874,Fiat 500,False,False
+136823,Skoda Citigo,False,False
+229836,Opel Crossland X,False,True
+23589,Peugeot 107,False,False
+44224,Skoda Citigo,False,False
+153644,Mazda 6,False,False
+132975,Tesla Model S,False,False
+165433,Alfa Romeo 156,False,False
+173484,Renault Grand Scenic,False,False
+24639,Chevrolet Orlando,False,False
+152570,Renault Clio SW,False,False
+233756,Skoda Roomster,False,False
+44354,Toyota AYGO,False,False
+115662,Peugeot 208,False,True
+115658,Kia Picanto,False,True
+129855,Citroen C4 Cactus,False,False
+221758,Peugeot 3008,False,True
+228252,Peugeot 308 SW,False,True
+214755,Renault Clio SW,False,False
+224002,Renault Twingo,False,True
+177081,Fiat Grande Punto,False,False
+233357,Citroën Grand C4 Picasso,False,False
+204784,Citroën C1,False,False
+133058,BMW 1 series,False,False
+78219,Audi A3,False,False
+82933,Audi A5,False,False
+110243,Hyundai i10,False,False
+27250,Seat Ibiza ST,False,False
+111353,Kia Picanto,False,False
+73953,Peugeot 308 CC,False,False
+204634,Peugeot Expert,False,True
+232483,Fiat Punto,False,False
+132791,Renault Talisman,False,False
+208553,Toyota Avensis,False,False
+72883,Skoda Citigo,False,False
+47519,Peugeot 108,False,False
+210663,Citroën C1,False,False
+212772,Fiat Punto,False,False
+205236,Citroën C3,True,False
+4600,Nissan Qashqai,False,False
+129874,Fiat 500,False,False
+136823,Skoda Citigo,False,False
+229836,Opel Crossland X,False,True
+134142,Toyota Auris,False,False
+221766,Peugeot 108,False,True
+213492,Fiat Grande Punto,False,False
+229856,Volkswagen UP!,False,True
+220085,Peugeot 206+,False,False
+212393,Citroën C1,False,False
+228901,Fiat 500,False,True
+200759,Citroën Xsara Picasso,False,True
+219331,Renault Clio HB,False,False
+139050,Citroen C3,False,False
+111327,Mitsubishi Space Star,False,True
+209800,Seat Ibiza,False,False
+230266,Renault Clio HB,False,False
+224268,Renault Clio HB,False,True
+232388,Volkswagen UP!,False,False
+142757,Skoda Fabia,False,False
+188035,Citroen C1,False,False
+204067,Mitsubishi Colt,False,False
+227265,Kia Ceed,False,False
+226630,Citroën C3,False,True
+47754,Fiat 500,False,True
+209760,Fiat 500,False,False
+218433,Dacia Lodgy,False,False
+103548,Skoda Octavia,False,False
+132614,Suzuki Celerio,False,False
+41302,Ford Ka,False,False
+92687,Ford C-Max,False,False
+188642,Peugeot 208,False,False
+138089,Ford Fiesta,False,False
+208401,Ford Transit,False,True
+119612,Volkswagen Polo,False,False
+169406,Seat Ibiza,False,False
+178060,Citroen C1,False,False
+64285,Peugeot 208,False,False
+19610,Renault Clio SW,False,False
+143970,Volkswagen Golf,False,False
+229460,Renault Clio HB,False,False
+104243,Honda Odyssey,False,False
+104543,Skoda Octavia,False,False
+15220,Toyota AYGO,False,False
+181160,Renault Clio SW,False,False
+92624,Peugeot 208,False,False
+228799,Mazda 3,False,True
+180883,Ford Grand C-MAX,False,False
+25380,Fiat 500,False,False
+6664,Mitsubishi Colt,False,False
+214769,Toyota Corolla,False,False
+197791,Opel Corsa,False,False
+211700,Ford Transit,False,False
+117810,Mitsubishi Colt,False,False
+138629,Citroen C4 Cactus,False,False
+227120,Ford Focus,False,False
+135905,Renault Captur,False,False
+212928,Fiat Punto,False,False
+130661,Hyundai i10,False,False
+170216,Renault Clio HB,False,False
+87080,Suzuki Celerio,False,False
+213266,Skoda Fabia,False,False
+218127,Volkswagen Polo,False,False
+222632,Volkswagen UP!,False,False
+113309,Fiat Ducato,False,False
+71943,Tesla Model S,False,False
+15594,Kia Picanto,False,False
+218528,Renault Zoe,False,False
+110221,Peugeot 208,False,True
+88464,Citroën C3,False,False
+172093,Hyundai i10,False,False
+214484,Fiat Ducato,False,False
+74538,Audi A3,False,False
+190602,Hyundai i10,True,False
+47085,Kia Picanto,False,False
+34319,Seat Mii,False,False
+215007,Dacia Duster,False,False
+182637,Tesla Model S,False,False
+233112,Skoda Citigo,False,False
+228297,Volkswagen UP!,False,False
+210188,Renault Clio SW,False,False
+22376,Tesla Model S,False,False
+215648,Hyundai i10,False,False
+62361,Kia Ceed,False,False
+91640,Kia Picanto,False,True
+13444,Tesla Model S,False,False
+216597,Renault Clio SW,False,False
+179853,Volkswagen UP!,False,False
+222929,Ford Fiesta,False,True
+219752,Ford Fiesta,False,True
+5559,Opel Corsa,False,False
+4778,Tesla Model S,False,False
+214799,Peugeot 107,False,False
+24547,Fiat 500,False,False
+142299,Citroen C1,False,False
+32323,Suzuki Celerio,False,False
+223017,Peugeot 5008,False,False
+106840,Skoda Citigo,False,False
+141406,Kia Picanto,False,False
+200799,Kia Picanto,False,False
+217400,Opel Astra,False,False
+24023,Kia Picanto,False,False
+83562,Skoda Octavia,False,False
+193017,Renault Clio HB,False,False
+215609,Opel Corsa,False,False
+194277,Renault Fluence Z.E.,False,False
+227273,Citroën C3,False,False
+214128,Citroën C3,False,False
+229482,Volkswagen Golf,False,True
+229930,Nissan Micra,False,False
+183577,Audi A3,False,True
+226707,Kia Picanto,False,True
+222167,Citroën C3,False,False
+111266,Opel Corsa,False,False
+224750,Nissan Pixo,False,True
+206072,Toyota Yaris,False,True
+83576,Citroen Xsara Picasso,False,True
+205778,Skoda Fabia,False,False
+205953,Ford Ka,False,False
+219341,Kia Picanto,False,True
+232415,Peugeot 2008,False,False
+220807,Toyota AYGO,False,True
+10653,Toyota Yaris,False,False
+23138,Hyundai i10,False,False
+135890,Toyota AYGO,False,False
+127535,Suzuki SX4,False,False
+95451,Mazda 3,False,False
+173562,Fiat 500,False,False
+227143,Hyundai Ioniq,False,False
+175718,Citroen C1,False,True
+214100,Hyundai i10,False,False
+41061,BMW i3,False,False
+14011,Hyundai i10,False,False
+203624,Renault Grand Scenic,False,False
+223444,Peugeot 5008,False,False
+164900,Fiat 500,False,False
+215078,Citroën Xsara Picasso,False,False
+74302,Peugeot 208,True,True
+183511,Renault Trafic,False,False
+2195,Peugeot 107,False,False
+72103,Ford Fiesta,False,False
+25039,Skoda Octavia,False,False
+209616,Skoda Citigo,False,False
+13019,Toyota Yaris,False,False
+170313,Hyundai Matrix,False,False
+66382,Seat Ibiza,False,False
+4958,Peugeot 107,False,False
+168174,Citroen C1,False,False
+132227,Hyundai i10,False,False
+113591,Kia Picanto,False,False
+84101,Volkswagen Polo,False,False
+100239,Volkswagen Polo,False,False
+212587,Volkswagen Golf,False,False
+23031,Renault Grand Scenic,False,False
+133629,Hyundai i20,False,False
+206268,Ford Fiesta,False,False
+25114,Kia Picanto,False,False
+44580,Renault Clio SW,False,False
+202779,Citroën C1,False,False
+210069,Peugeot 308,False,False
+168465,Chevrolet Matiz,False,True
+43969,Renault Fluence Z.E.,False,False
+108126,Toyota AYGO,False,False
+115537,Volkswagen UP,False,True
+227375,Volkswagen UP!,False,True
+136705,Renault Grand Scenic,False,True
+203460,Renault Grand Scenic,False,True
+182996,Renault Grand Scenic,False,True
+205714,Renault Grand Scenic,False,True
+135977,Renault Grand Scenic,False,True
+205717,Renault Grand Scenic,False,True
+116515,Citroën C4 Cactus,False,False
+101134,Opel Karl,False,False
+26526,Toyota AYGO,False,False
+227205,Fiat 500C,False,False
+215405,Ford Fiesta,False,True
+209376,Ford Fiesta,False,True
+144941,Peugeot 208,False,False
+222698,Peugeot 207,False,False
+166673,Fiat Punto,False,False
+208263,Toyota AYGO,False,False
+111305,Peugeot 208,False,False
+217141,Citroën C3,False,False
+192790,Audi A6,False,True
+222017,Suzuki Swift,False,False
+128432,Kia Picanto,False,False
+42044,Kia Rio,False,False
+132207,Nissan Qashqai,False,False
+226223,Kia Picanto,False,True
+206386,Peugeot 208,False,False
+209514,Ford Fiesta,False,False
+138897,Renault Clio,False,False
+224509,Hyundai i20,False,True
+169617,Kia Niro,False,False
+132671,Volvo C30,False,False
+124267,Kia Rio,False,False
+224218,Ford Fiesta,False,False
+206323,Citroën C3,False,False
+208426,Toyota AYGO,False,False
+115721,Citroen Berlingo,False,False
+124134,Opel Astra,False,False
+166676,Ford Focus,False,False
+123990,Citroën C3,False,False
+169253,Volkswagen UP!,False,False
+210525,Fiat 500C,False,False
+217072,Toyota AYGO,False,False
+214172,Renault Clio SW,False,False
+69322,Peugeot 307,False,False
+219024,Citroën C3,False,False
+36482,Tesla Model S,False,False
+230872,Peugeot 108,False,False
+229051,Tesla Model S,False,False
+215748,Peugeot 208,False,False
+208526,Tesla Model 3,False,False
+225683,Hyundai i20,False,False
+216929,Skoda Citigo,False,False
+138255,Volkswagen Golf,False,False
+124305,MINI Cooper,False,False
+212127,Volkswagen Polo,False,False
+137167,Toyota AYGO,False,False
+202343,Kia Rio,False,False
+222830,Skoda Citigo,False,False
+201633,Renault Clio HB,False,False
+43829,Peugeot 206+,False,False
+191667,Skoda Fabia,False,False
+225506,Peugeot 107,False,False
+214148,Tesla Model S,False,False
+108230,Ford Ka,False,True
+230090,Ford Transit,False,False
+147596,Renault Clio SW,False,False
+31798,Peugeot 208,False,False
+230713,Peugeot 208,True,False
+211365,Ford Focus,False,False
+15058,Suzuki Alto,False,False
+136679,Mercedes B-Class,False,False
+212933,Nissan Micra,False,False
+204433,Kia Niro,False,False
+224004,Volkswagen Golf,False,False
+187232,Audi A3,False,False
+221183,Peugeot 208,False,False
+229611,Fiat 500,False,False
+104968,Peugeot 108,False,False
+90809,Toyota AYGO,False,False
+231414,Peugeot 308 SW,False,False
+21384,Seat Ibiza,False,False
+20233,Peugeot 206,False,False
+106388,Skoda Citigo,False,True
+49617,Peugeot 206+,False,False
+108209,Skoda Citigo,False,False
+123318,Hyundai i10,False,False
+166463,Volkswagen Touareg,False,True
+58833,Tesla Model S,False,False
+101165,Hyundai i30,False,False
+136114,Peugeot 107,False,False
+166159,Renault Grand Scenic,False,True
+203453,Renault Grand Scenic,False,True
+216778,Kia ProCeed,False,False
+44588,Kia Ceed,False,False
+223835,Skoda Fabia,False,False
+219279,Hyundai i30,False,False
+187030,Ford Fiesta,False,False
+213328,Opel Astra,False,False
+71563,Renault Twingo,False,False
+191253,Mitsubishi Space Star,False,False
+159568,Mitsubishi Colt,False,False
+186851,Nissan Qashqai+2,False,False
+43672,Peugeot 208,False,False
+213818,Mercedes Marco Polo,False,False
+109368,VW Polo 1.6 TDI,False,True
+132770,Citroën C3,False,False
+48757,Skoda Citigo,False,False
+232178,Peugeot 208,False,False
+132230,Peugeot 308,False,False
+109946,Seat Leon,False,False
+180087,Volkswagen Polo,False,True
+226163,Skoda Citigo,False,False
+206655,Renault Clio HB,False,False
+210402,Citroën C3,False,False
+216401,Mitsubishi Space Star,False,False
+42903,Kia Rio,False,True
+227290,Hyundai i20,True,False
+33940,Suzuki SX4,False,False
+209448,Renault Clio HB,False,False
+7212,Peugeot 208,False,False
+63431,Opel Combo,False,False
+69320,Peugeot 307,False,False
+110931,Peugeot 307,False,False
+219256,Seat Mii,False,False
+64294,Ford C-Max,False,False
+87237,Peugeot 208,False,False
+225819,Renault Clio HB,False,False
+116961,Kia Ceed,False,False
+177514,Tesla Model 3,False,False
+169398,Seat Ibiza,False,False
+227431,Opel Astra ST,False,False
+218897,Chevrolet Cruze,False,False
+211767,BMW i3,False,False
+23999,Fiat 500,False,False
+91782,Volkswagen Polo,False,False
+201473,Mazda 6,False,False
+44953,Kia Picanto,False,False
+64711,Toyota Yaris,False,False
+218554,Renault Clio HB,False,False
+127429,Fiat 500,False,False
+210948,Renault Twingo,False,False
+140138,Renault Grand Scenic,False,False
+114552,Renault Clio SW,False,False
+171319,Suzuki Swift,False,False
+221105,Peugeot 308 SW,False,False
+99938,Citroen C4 Picasso,True,False
+209530,Peugeot 107,False,False
+50592,Kia Ceed,False,False
+154758,Tesla Model 3,False,False
+18092,BMW 1 series,False,False
+76573,Volkswagen Polo,False,False
+35845,Renault Twingo,False,False
+44667,Volkswagen Fox,False,True
+62096,Suzuki Splash,False,False
+9093,Citroen C1,False,False
+180435,Citroen DS3,False,False
+21558,Nissan Qashqai,False,True
+153219,Toyota Auris Hybrid,False,False
+196901,Peugeot 308,False,False
+220335,Tesla Model 3,False,True
+47012,Toyota AYGO,False,False
+5252,Suzuki Celerio,False,False
+49972,Fiat 500,False,False
+131171,Hyundai i30,False,False
+8572,Kia Picanto,False,False
+175300,Renault Clio HB,False,False
+58093,Renault Clio,False,False
+180963,Audi A3,False,False
+225324,Volkswagen UP!,False,False
+225833,Honda CR-V,False,False
+35776,Fiat 500,False,False
+201916,Citroën Jumper,False,False
+229953,Toyota AYGO,False,False
+208387,Volkswagen UP!,False,False
+124096,Fiat Punto,False,False
+109146,Toyota AYGO,False,False
+222386,Peugeot 207,False,False
+208688,Peugeot 307,False,False
+105630,Opel Mokka X,False,False
+222623,Ford Fiesta,False,False
+189904,Renault Clio SW,False,False
+228247,Nissan Primastar,False,False
+220054,Toyota AYGO,False,False
+220353,Kia Ceed,False,False
+41361,Ford Ka,False,False
+176796,Opel Karl,False,False
+212143,Citroën C3,False,True
+221803,Ford Focus,False,False
+230698,Opel Karl,False,True
+34910,Volkswagen UP,False,True
+86581,Renault Twingo,False,False
+220844,Skoda Fabia,False,False
+208494,Citroën C1,False,False
+184827,Tesla Model 3,False,False
+221742,Toyota AYGO,False,False
+206648,Mazda 6,False,False
+138204,Tesla Model 3,False,False
+7237,Citroen C4 Cactus,False,False
+121642,Peugeot 107,False,True
+44784,Renault Grand Scenic,False,False
+7331,Citroen C1,False,False
+24794,Dacia Lodgy,False,True
+226320,Ford Fiesta,False,False
+88690,Skoda Superb,False,False
+37289,Renault Clio SW,False,False
+134934,Kia Picanto,False,False
+9077,Opel Corsa,False,False
+128619,Peugeot 307,False,False
+224673,Mercedes GLA,False,False
+44512,Peugeot 207,False,False
+151942,Toyota iQ,False,False
+110117,Opel Astra,False,False
+226169,Volkswagen California,False,False
+171651,Suzuki Baleno,False,False
+213706,Toyota Avensis,False,False
+108645,Volkswagen Golf,False,False
+69581,Ford Ka,False,False
+209758,Citroën C1,False,False
+30969,Toyota AYGO,False,False
+105452,Peugeot 308,False,False
+4234,Skoda Citigo,False,False
+231666,Renault Clio HB,False,False
+201098,Mazda 2,False,False
+180808,Hyundai i20,False,False
+28876,Skoda Citigo,False,False
+221068,Kia Rio,False,False
+174422,Tesla Model 3,False,False
+224441,Renault Zoe,False,False
+5405,Opel Corsa,False,False
+74071,Ford Ka,False,False
+149502,Fiat 500,False,False
+125946,Renault Captur,False,False
+216210,BMW 1 Series,False,False
+37442,Ford Transit,True,False
+2483,Kia Picanto,False,True
+123856,Opel Vectra,False,False
+131738,Kia Rio,False,False
+210861,Nissan X-Trail,False,False
+75597,Peugeot 107,False,False
+145983,Citroen C3,False,False
+44513,Toyota AYGO,False,False
+119149,Citroen C4 Picasso,False,False
+111163,Toyota Yaris,False,False
+134944,LDV V80,False,False
+218356,Peugeot 208,False,False
+224894,Peugeot 208,False,False
+227201,Renault Clio SW,False,False
+205296,Citroën DS3,False,True
+124590,Peugeot 308,False,False
+77621,Volkswagen UP,False,False
+110039,Renault Clio HB,False,False
+206958,Volkswagen Golf Stationcar,False,False
+10886,Ford Fiesta,False,False
+205033,Mercedes Citan,False,False
+170175,Kia Picanto,False,True
+133590,Dacia Sandero,False,False
+229919,Ford Focus,False,False
+128614,Tesla Model 3,False,False
+223941,Renault Clio SW,False,False
+148737,Toyota AYGO,False,False
+173213,Renault Clio SW,False,False
+232609,Skoda Fabia,False,False
+38051,Kia Rio,False,False
+117087,Ford Fiesta,False,False
+76212,Opel VIVARO,False,False
+44134,Opel VIVARO,False,False
+82880,Peugeot 208,False,False
+48106,Citroen C1,False,False
+100263,Volkswagen Polo,False,False
+144447,Volkswagen Polo,False,False
+108191,Citroen C1,False,False
+136247,Volkswagen UP,False,False
+191798,Seat Ibiza,False,False
+146934,Renault Clio SW,False,False
+89646,Kia Picanto,False,False
+3603,Ford Ka,False,False
+179950,Fiat 500,False,False
+214069,Nissan Primera,False,True
+217586,Peugeot 308,False,False
+232857,Ford Transit,False,False
+111463,Honda Jazz,False,False
+202216,Volkswagen Golf,False,False
+82230,Citroën C4 Cactus,False,False
+17511,Ford Ka,False,False
+225794,BMW 4 Series,False,False
+205849,Tesla Model 3,False,False
+42126,Ford Fiesta,False,False
+210081,Skoda Kodiaq,False,False
+130425,Peugeot 107,False,False
+224031,Skoda Fabia,False,False
+182020,Suzuki Alto,False,False
+83601,Peugeot 208,False,False
+44446,Volkswagen Polo,False,True
+75387,Toyota AYGO,False,False
+46550,Opel Corsa,False,False
+223959,Renault Clio SW,True,False
+98928,Renault Clio ST,False,False
+123742,Citroën C3,False,False
+172156,Chevrolet Spark,False,True
+31817,Kia Rio,False,False
+63090,Kia Rio,False,False
+117127,Peugeot 208,False,False
+162724,Nissan Pixo,False,False
+43394,Citroën C4,False,False
+221697,Mitsubishi Space Star,False,False
+199423,Peugeot 208,False,False
+227351,Ford Fiesta,False,False
+125996,Peugeot 208,False,False
+22024,Opel Karl,False,False
+159948,Toyota Yaris,False,False
+159480,Hyundai i30,False,False
+107509,Volkswagen UP!,False,False
+187580,Citroen C1,False,False
+136545,Toyota AYGO,False,False
+205494,Peugeot 2008,False,False
+52858,Hyundai i10,False,False
+20517,Peugeot 107,False,False
+165338,Toyota Auris Hybrid,False,False
+76365,Volkswagen California,False,False
+134949,Renault Grand Scenic,False,False
+224111,Ford C-Max,False,False
+131495,Nissan Interstar,False,False
+177454,Peugeot Expert,False,False
+211386,Audi A7,False,False
+207518,BMW 5 Series,False,False
+47069,MINI Cooper,False,False
+146854,Volkswagen UP!,False,False
+21392,Dacia Logan,False,False
+114563,Skoda Octavia,False,False
+79631,Ford C-Max,False,False
+218429,Toyota Yaris,False,False
+202398,Toyota Avensis,False,False
+187891,Renault Clio SW,False,False
+33605,Peugeot 107,False,False
+217788,Volkswagen Transporter,False,False
+161455,Renault Clio HB,False,False
+44406,Chevrolet Cruze,False,False
+76364,Kia Picanto,False,False
+44179,Hyundai i20,False,False
+75767,Peugeot 107,False,False
+146061,Kia Rio,False,False
+14791,Kia Rio,False,False
+110212,Hyundai i20,False,True
+129092,Peugeot 208,False,False
+216395,Suzuki Swift,False,True
+107910,Hyundai i20,False,False
+211494,Citroën C4 Cactus,False,False
+74234,Toyota AYGO,False,False
+97372,Peugeot 3008,False,False
+215473,Seat Ateca,False,False
+129572,Fiat Panda,False,False
+228693,Skoda Citigo,False,False
+4239,Hyundai i20,False,False
+111232,Opel Corsa,False,False
+158277,Fiat Punto,False,False
+149354,Citroen C4 Picasso,False,False
+212839,Volkswagen UP!,False,False
+52040,Kia Ceed SW,False,False
+133892,Citroën C3,False,False
+131275,Volkswagen UP!,False,False
+182256,Toyota Yaris,False,False
+213221,Renault Clio SW,False,False
+224370,Citroën Grand C4 Picasso,False,False
+211982,Ford Fiesta,False,False
+214781,Peugeot 3008,False,False
+221588,Chevrolet Aveo,False,False
+210891,Dacia Lodgy,False,False
+226921,Renault Clio SW,False,False
+141626,Toyota AYGO,False,False
+135735,Volkswagen UP,False,False
+127033,Adria Compact,False,False
+220611,Kia Ceed,False,False
+32873,Peugeot 208,False,False
+102319,Opel Corsa,False,False
+72146,Opel Astra,False,False
+221476,Kia Picanto,False,False
+230477,Hyundai i10,False,True
+63464,Ford Ka,False,False
+217271,Renault Clio SW,False,False
+75161,Peugeot 207 SW,False,True
+208520,Peugeot 308 SW,False,True
+203676,Fiat Panda,False,True
+48257,Mazda 6,False,False
+133737,Hyundai i10,False,False
+12276,Hyundai i10,False,False
+135911,Mazda MX-5,False,False
+207819,Toyota Prius,False,False
+61071,Chevrolet Cruze,False,False
+180639,Hyundai i10,False,False
+210597,Opel Karl,False,False
+188584,Peugeot 107,False,False
+45703,Volkswagen UP,False,False
+125567,Kia Picanto,False,False
+200222,Skoda Octavia,False,False
+226777,Citroën C4 Cactus,False,False
+111330,Citroen C1,False,False
+212859,Seat Mii,False,False
+205984,Renault Zoe,False,False
+139368,Peugeot 308,False,False
+47193,Renault Clio SW,False,False
+51527,Citroen C1,False,False
+113422,Skoda Fabia,False,False
+102537,Tesla Model 3,False,False
+107228,Citroen C1,False,False
+129242,Toyota AYGO,False,False
+61733,Peugeot 208,False,False
+152143,Citroen DS5,False,False
+152144,Citroen Grand C4 Picasso,False,False
+216205,BMW 3 Series,False,False
+134158,Volkswagen UP!,False,False
+127059,Toyota AYGO,False,False
+204828,Skoda Citigo,False,False
+213491,Hyundai i10,False,False
+204333,Ford Transit,False,False
+229421,Renault Clio HB,False,False
+63877,Citroen C4,False,False
+208240,Opel VIVARO,False,True
+37695,Citroen C1,False,False
+44967,Ford Ka,False,False
+14493,Peugeot 206+,False,False
+207590,Toyota AYGO,False,False
+214693,Peugeot 207 SW,False,False
+132635,Opel Astra,False,False
+101937,Kia Rio,False,False
+216511,Fiat 500,False,False
+128690,Skoda Citigo,False,False
+24058,Citroen C4 Cactus,False,False
+145293,Ford Fiesta,False,False
+189103,Renault Captur,False,False
+117602,Audi A6,False,False
+203633,Hyundai i30,False,False
+99401,Peugeot 2008,False,False
+53558,Renault Grand Scenic,False,False
+133403,Citroen C3,False,False
+230543,Peugeot 208,False,False
+231590,Hyundai i10,False,False
+138623,Peugeot 208,False,False
+203861,Renault Clio HB,False,False
+45561,Opel Astra,False,False
+211844,Volkswagen California,False,False
+226539,Hyundai Matrix,False,False
+208294,Tesla Model 3,False,False
+112350,Fiat 500,False,False
+208960,Volkswagen Passat,False,False
+214171,Opel Astra,False,False
+95855,Peugeot 107,False,False
+15804,Toyota AYGO,False,False
+91503,BMW 3 series,False,False
+227360,Skoda Fabia,False,False
+130458,Skoda Citigo,False,False
+63426,Toyota AYGO,False,False
+218927,Hyundai i30,False,False
+217010,Toyota Verso,False,False
+39520,Chevrolet Spark,False,False
+164722,Kia Rio,False,False
+153993,Renault Clio SW,True,False
+212965,Ford Fiesta,False,False
+107010,Volkswagen UP,False,False
+226662,SMART Fortwo,False,False
+168897,Renault Clio SW,False,False
+168405,Citroen C3,False,False
+43525,Volkswagen UP!,False,False
+109753,Seat Toledo,False,False
+216086,Renault Clio HB,True,False
+176259,Volvo V70,False,False
+130635,Renault Clio,False,False
+89649,Fiat Panda,False,False
+79886,Skoda Fabia,False,False
+207601,Audi A3,False,False
+106452,Fiat 500,False,False
+23356,Toyota AYGO,False,False
+121458,Toyota AYGO,False,False
+23611,Citroen C1,False,False
+32848,Opel Astra ST,False,False
+18039,Ford Fiesta,False,False
+225225,Volkswagen UP!,False,False
+228534,Nissan Qashqai,False,False
+228358,Kia Rio,False,False
+232328,Fiat Ducato,False,True
+228008,Citroën C1,False,False
+210972,Renault Clio SW,False,False
+220946,Skoda Citigo,False,False
+41171,Toyota AYGO,False,False
+119288,Skoda Citigo,False,False
+63589,Tesla Model S,False,False
+209932,Mercedes A-Class,False,False
+86041,Volkswagen Golf,False,False
+37525,Ford Fiesta,False,False
+142544,Opel Astra,False,False
+208949,Opel VIVARO,False,False
+205010,Nissan Interstar,False,False
+188208,Ford Ka,False,False
+7174,Renault Twingo,False,False
+129786,Nissan Micra,False,False
+135983,Mitsubishi ASX,False,False
+182038,Nissan Note,False,False
+209220,Kia Ceed,False,False
+166091,Mazda 2,False,False
+53142,Suzuki Baleno,False,False
+58952,Ford Fiesta,False,False
+40422,Fiat 500,False,False
+225927,Toyota AYGO,False,False
+94729,Toyota AYGO,False,False
+218408,Peugeot 208,False,False
+51456,Citroën C4 Cactus,False,False
+39410,Volkswagen Touran,False,False
+50756,Peugeot 2008,False,False
+205012,Volkswagen UP!,False,False
+48229,Dacia Logan,False,True
+221315,Audi A4,False,False
+180024,Citroen C3,False,False
+81724,Peugeot 108,False,False
+184511,Peugeot 308,False,True
+221120,Suzuki Splash,False,False
+206886,Renault Clio SW,False,False
+35122,Renault Megane,False,False
+210412,Ford Fiesta,False,False
+172025,Peugeot 207,False,False
+210775,Mercedes Sprinter,False,False
+215700,Chevrolet Malibu,False,False
+232799,Citroën C5,False,False
+45766,Chevrolet Aveo,False,False
+228344,BMW 5 Series,False,True
+121137,Volkswagen Golf Variant,False,False
+146695,Audi A6,False,False
+206200,Skoda Octavia,False,False
+204084,Nissan Note,False,False
+109763,Skoda Rapid,False,False
+198532,Ford Focus,False,False
+218868,Renault Clio SW,False,False
+214831,Citroën C3,False,False
+221117,Skoda Citigo,False,False
+218488,Peugeot 307 SW,False,False
+181068,Suzuki Celerio,False,False
+175019,Peugeot 107,False,False
+141356,Volkswagen UP!,False,False
+164691,Hyundai i10,False,False
+221086,Seat Mii,False,False
+210764,Renault Megane,False,False
+138217,Skoda Fabia,False,True
+100787,Skoda Fabia,False,True
+70197,Skoda Fabia,False,True
+27929,Seat Leon,False,False
+35460,Hyundai i10,False,False
+51606,Tesla Model S,False,False
+161691,Renault Fluence Z.E.,False,False
+212726,Volkswagen Polo,False,False
+223999,Skoda Citigo,False,False
+225826,Nissan LEAF,False,False
+229619,Ford Fiesta,False,False
+29471,Citroën C3,False,False
+46449,Tesla Model S,False,False
+205793,Mitsubishi Lancer,False,False
+186647,Peugeot 206+,False,True
+139645,Opel Corsa,False,False
+137000,Volkswagen Polo,False,False
+186801,Citroen C1,False,False
+223905,Mazda 6,False,False
+171143,BMW X3,False,False
+131259,Fiat 500,False,False
+129561,Suzuki Vitara,False,False
+26832,Toyota Yaris,False,False
+108715,Volkswagen UP!,False,False
+133791,Tesla Model 3,False,False
+128486,Ford Ka,False,False
+79936,Toyota AYGO,False,False
+53628,Citroen C1,False,False
+206237,Seat Ibiza ST,False,False
+123738,Ford Ka,False,False
+27728,Honda FR-V,False,False
+223533,Ford Fiesta,False,False
+32199,Dacia Lodgy,False,False
+196514,Suzuki Swift,False,False
+157002,Peugeot 108,False,False
+8074,Peugeot 107,False,False
+234571,Renault Clio SW,False,False
+137393,Renault Zoe,False,False
+137720,Peugeot 107,False,False
+38294,Kia Picanto,False,False
+145084,Renault Trafic,False,False
+4008,Peugeot 208,False,False
+114579,Tesla Model S,False,False
+77131,Seat Mii,False,False
+226042,Renault Clio SW,False,False
+50738,Skoda Fabia,False,False
+208617,Skoda Citigo,False,False
+2471,Volkswagen UP,False,False
+224178,Citroën Grand C4 Picasso,False,False
+42834,Renault Captur,False,False
+230734,Suzuki Ignis,False,False
+76425,Toyota Yaris,False,False
+851,Nissan Micra,False,False
+210845,Mazda 2,False,False
+217090,Mitsubishi Colt,False,False
+226204,Peugeot 208,False,False
+222907,Volkswagen UP!,False,False
+151588,Fiat Panda,False,False
+226178,Opel Adam,False,False
+42338,Volkswagen EOS,False,False
+14962,Fiat 500,False,False
+129561,Suzuki Vitara,False,False
+26832,Toyota Yaris,False,False
+108715,Volkswagen UP!,False,False
+133791,Tesla Model 3,False,False
+128486,Ford Ka,False,False
+79936,Toyota AYGO,False,False
+53628,Citroen C1,False,False
+206237,Seat Ibiza ST,False,False
+123738,Ford Ka,False,False
+27728,Honda FR-V,False,False
+223533,Ford Fiesta,False,False
+32199,Dacia Lodgy,False,False
+196514,Suzuki Swift,False,False
+157002,Peugeot 108,False,False
+8074,Peugeot 107,False,False
+234571,Renault Clio SW,False,False
+137393,Renault Zoe,False,False
+137720,Peugeot 107,False,False
+38294,Kia Picanto,False,False
+145084,Renault Trafic,False,False
+4008,Peugeot 208,False,False
+114579,Tesla Model S,False,False
+77131,Seat Mii,False,False
+226042,Renault Clio SW,False,False
+50738,Skoda Fabia,False,False
+208617,Skoda Citigo,False,False
+2471,Volkswagen UP,False,False
+224178,Citroën Grand C4 Picasso,False,False
+42834,Renault Captur,False,False
+230734,Suzuki Ignis,False,False
+76425,Toyota Yaris,False,False
+851,Nissan Micra,False,False
+210845,Mazda 2,False,False
+217090,Mitsubishi Colt,False,False
+226204,Peugeot 208,False,False
+222907,Volkswagen UP!,False,False
+151588,Fiat Panda,False,False
+226178,Opel Adam,False,False
+42338,Volkswagen EOS,False,False
+14962,Fiat 500,False,False
+188148,Citroen C5,False,False
+225972,Ford Kuga,False,False
+153764,Renault Master,False,False
+57857,Toyota Yaris,False,False
+13621,Tesla Model S,False,False
+218468,Opel Corsa,False,True
+114051,Peugeot 208,False,False
+76194,Fiat Punto,False,False
+231286,Citroën C3,False,False
+68331,Peugeot 107,False,False
+223712,Citroën C4 Cactus,False,False
+218693,Peugeot 3008,False,False
+222056,Citroën C3 Picasso,False,False
+223614,Nissan Qashqai,False,False
+100068,Volvo V40,False,False
+148488,Mazda MX-5,False,False
+29578,Renault Grand Scenic,False,False
+19795,Tesla Model S,False,False
+101008,Ford Focus,False,False
+1292,Skoda Citigo,False,False
+40791,Toyota AYGO,False,False
+215296,Renault Captur,False,False
+108997,Peugeot 107,False,False
+205727,Volkswagen Polo,False,False
+48669,Citroen C3,False,False
+213533,Citroën C3,False,False
+205125,Suzuki Splash,False,False
+49232,Opel Astra,False,False
+225476,Skoda Fabia,False,True
+52629,Ford Ka,False,False
+31859,Skoda Fabia,False,False
+220492,Peugeot 208,False,False
+150084,Ford Focus,False,False
+81841,Renault Clio,False,False
+128032,Peugeot 107,False,False
+185475,Toyota Auris Hybrid,False,False
+214226,Renault Megane,False,False
+135450,Ford S-MAX,False,False
+207792,Volkswagen UP!,False,False
+74811,Peugeot 2008,False,False
+104124,Volkswagen UP,False,False
+220325,Volvo V40 Cross Country,False,False
+217924,Audi A3,False,False
+144969,Renault Clio SW,False,False
+199868,Peugeot 208,False,False
+229846,Peugeot 307 SW,False,False
+46019,Kia Rio,False,False
+69853,Skoda Fabia,False,False
+208554,Peugeot 208,True,False
+201365,Kia Ceed,False,False
+130123,Citroën C3,False,False
+4987,Nissan Micra,False,False
+17994,Toyota Yaris,False,False
+204230,Volkswagen Touran,False,False
+210779,Mercedes Sprinter,False,False
+59960,Peugeot 107,False,False
+92323,Opel Corsa,False,False
+168482,Fiat 500X,False,False
+230722,Opel Zafira,False,False
+229313,Mitsubishi Outlander,False,False
+221556,Audi A1,False,False
+222328,Volkswagen Polo,False,False
+109591,Skoda Citigo,False,False
+170210,Tesla Model 3,False,False
+212762,Toyota Corolla,False,False
+223672,Suzuki Swift,False,False
+229053,Skoda Fabia,False,False
+232508,Toyota AYGO,False,False
+211424,Tesla Model S,False,True
+229625,Seat Mii,False,False
+154598,Volkswagen UP!,False,False
+191330,Toyota Yaris,False,False
+133614,Skoda Fabia,False,False
+123734,Citroën C3,False,False
+133947,Renault Grand Scenic,False,False
+46158,Mazda 6,False,False
+124079,Kia Picanto,False,False
+204924,Peugeot 208,False,False
+201947,Suzuki Celerio,False,False
+228844,Volkswagen Polo,False,False
+227832,Citroën Xsara Picasso,False,False
+111580,Hyundai i20,False,False
+165577,Citroen C1,False,False
+214182,Honda Civic,False,False
+16338,Citroën C3,False,False
+68076,Opel Corsa,False,False
+42197,Suzuki Splash,False,False
+90625,Peugeot 208,False,False
+155448,Chevrolet Nubira,False,False
+190680,Audi A6,False,False
+93795,Volkswagen UP!,False,False
+54107,Opel Corsa,False,False
+21216,Tesla Model S,False,False
+120352,Volkswagen Polo,False,False
+51615,Opel Corsa,False,False
+31047,Hyundai i10,False,False
+41135,Suzuki Alto,False,False
+119584,Citroën C3,False,False
+197832,Citroën C3,False,False
+181039,Ford Fiesta,False,False
+15358,Suzuki Celerio,False,False
+208000,Audi A4,False,False
+126822,Seat Ibiza ST,False,False
+209526,Peugeot 108,False,False
+85592,Volkswagen Touran,False,False
+229954,Volkswagen Transporter,False,False
+139413,Suzuki Swift,False,False
+71754,Kia Ceed,False,True
+219714,Kia Picanto,False,False
+193016,Suzuki Celerio,False,False
+104650,Fiat 500,False,False
+112537,Peugeot 308,False,False
+5044,Skoda Citigo,False,False
+179851,Peugeot 308,False,False
+100793,Ford Fiesta,False,False
+142846,Skoda Octavia,False,False
+138728,Skoda Octavia,False,False
+7968,Chevrolet Spark,False,False
+127895,Peugeot 308,False,False
+115488,Hyundai i10,False,False
+176086,Ford Focus,False,False
+218602,Hyundai i30,False,False
+10923,Volkswagen UP,False,False
+170762,Ford Fiesta,False,False
+228980,Nissan Qashqai,False,False
+101536,Fiat Talento,False,False
+209169,Citroën C1,False,False
+113435,Hyundai i10,False,False
+108798,Alfa Romeo Giulietta,False,False
+205634,Skoda Citigo,False,False
+55392,Opel Agila,False,False
+149121,Tesla Model 3,False,False
+11128,Peugeot 107,False,True
+222532,Volkswagen Passat,False,False
+179598,Fiat Grande Punto,False,False
+77830,Nissan Qashqai,False,False
+104351,Volkswagen Passat,False,True
+61171,Nissan Qashqai,False,False
+209598,Renault Clio SW,False,False
+111277,Ford Transit,False,False
+131700,Citroen C1,False,False
+182301,BMW 3 Series,False,False
+212483,Peugeot 3008,False,False
+1988,Peugeot 107,False,False
+215361,Hyundai Getz,False,False
+133952,Hyundai i30,False,False
+93740,Citroen C1,False,False
+39192,Citroen C4 Picasso,False,False
+215034,Citroën C3,False,False
+83246,Kia Picanto,False,False
+32633,Skoda Fabia,False,False
+159502,Tesla Model 3,False,False
+47134,Audi A4,False,False
+214173,Peugeot 207,False,False
+216549,Fiat 500,False,False
+231438,Opel Insignia,False,False
+225744,Toyota Yaris,False,False
+218012,Peugeot 2008,False,False
+229993,Citroën Grand C4 Picasso,False,False
+229864,Kia Rio,False,False
+231875,Hyundai i30,False,False
+208910,Fiat 500,False,False
+32133,BMW 1 series,False,False
+229866,Citroën C1,False,False
+229442,Opel Agila,False,False
+169814,Hyundai i10,False,False
+121173,Renault Twingo,False,False
+205913,Skoda Citigo,False,False
+106971,Peugeot 208,False,False
+171743,Peugeot 207 SW,False,False
+46082,Toyota AYGO,False,False
+119023,Peugeot 208,False,False
+216589,Renault Clio SW,False,False
+17040,Toyota Yaris,False,False
+222913,Opel Karl,True,False
+140346,Volkswagen UP!,False,False
+212787,Renault Clio HB,False,False
+126323,Peugeot 208,False,False
+54845,Opel Karl,False,False
+233506,Mercedes A-Class,False,False
+17569,Toyota Corolla,False,False
+7973,Fiat Punto,False,False
+49707,Peugeot 107,False,False
+224135,Citroën C3,False,False
+217445,Kia Picanto,False,False
+197667,Citroën Grand C4 Picasso,False,False
+107796,Skoda Fabia,False,False
+174952,Citroen Berlingo,False,False
+225197,Mazda 2,False,False
+50190,Renault Twingo,False,False
+39008,Honda Jazz,False,False
+217077,Renault Clio SW,False,False
+134329,Mercedes Sprinter,False,False
+230005,Volkswagen Golf,False,True
+24599,Peugeot 208,False,False
+107558,Skoda Citigo,False,False
+220969,Toyota Yaris,False,False
+109483,Skoda Fabia,False,False
+218802,Volkswagen Beetle,False,False
+89153,Fiat Grande Punto,False,False
+2658,Skoda Fabia,False,False
+46367,Peugeot 108,False,False
+128555,Peugeot 107,False,False
+6245,Citroen C1,False,False
+217369,Mercedes CLA,False,False
+147746,Peugeot 108,False,False
+209863,Toyota Yaris,False,False
+3379,Volkswagen Polo,False,False
+216444,Peugeot 308 SW,False,False
+223333,Volkswagen UP!,False,False
+81244,Nissan Qashqai+2,False,False
+81268,Hyundai i30,False,False
+204576,Tesla Model S,False,False
+201420,Opel Vectra,False,False
+44482,Fiat 500,False,False
+51223,Peugeot 5008,False,False
+44711,Seat Mii,False,False
+80153,Ford Galaxy,False,False
+115972,Ford Transit,False,False
+209371,Toyota AYGO,False,False
+68831,Toyota AYGO,False,False
+33250,Kia Ceed,False,False
+35542,Citroen C4 Picasso,False,False
+78199,Peugeot 108,False,False
+225982,Citroën C4 Cactus,False,False
+222713,Mazda 2,False,False
+47518,Opel Corsa,False,False
+191961,Volkswagen Touran,False,False
+88727,Dacia Lodgy,False,False
+171684,Peugeot 2008,False,False
+221579,Peugeot 107,False,True
+27716,Volkswagen Polo,False,False
+44490,Chevrolet Spark,False,True
+129644,Peugeot 206,False,False
+129647,Opel Astra,False,False
+209921,Peugeot 208,False,False
+216402,Skoda Fabia,False,False
+224818,Skoda Octavia,False,False
+109075,Kia Rio,False,False
+222540,BMW 3 Series,False,False
+193791,Suzuki Swift,False,False
+221860,Peugeot 208,False,False
+215326,Audi A3,False,False
+234058,Suzuki Splash,False,False
+215209,BMW 3 Series,False,False
+233878,Citroën C1,False,False
+201405,Hyundai i30,False,False
+209088,Ford Focus,False,False
+45307,Kia Picanto,False,False
+158925,Citroen C4 Cactus,False,False
+42295,Ford C-Max,False,False
+51129,Volkswagen UP!,False,True
+90674,Skoda Citigo,False,False
+164133,Volkswagen Polo,False,False
+223183,Peugeot 308,False,False
+221879,Ford Transit,False,False
+184258,Opel Corsa,False,False
+179146,Hyundai i20,False,False
+115989,Citroën C4 Cactus,False,False
+151653,Citroen C3,False,False
+42167,Renault Clio SW,False,False
+205861,Mercedes A-Class,False,False
+89300,Citroen C4 Picasso,False,False
+144775,Fiat 500,False,False
+90075,BMW 1 series,False,False
+167068,Renault Kadjar,False,False
+140641,Citroen C4 Picasso,False,False
+13883,Toyota AYGO,False,False
+179406,Kia Rio,False,False
+206687,Volkswagen T-Roc,False,False
+92038,Peugeot 208,False,False
+3562,Fiat 500,False,False
+206581,Renault Twingo,False,False
+46225,Fiat 500,False,False
+229782,Citroën C3,False,False
+136036,Citroen C1,False,False
+116845,Renault Captur,False,False
+227882,Peugeot 208,False,False
+57676,Peugeot 108,False,False
+39057,Kia Picanto,False,False
+19721,Alfa Romeo Giulietta,False,False
+218537,Audi A3,False,False
+36817,Opel Karl,False,False
+34911,Suzuki Swift,False,False
+208715,Citroën C3 Picasso,False,False
+110919,Citroen Berlingo,False,False
+36945,Peugeot 107,False,False
+215397,Tesla Model 3,False,False
+23463,Renault Fluence Z.E.,False,False
+37684,Kia Picanto,False,False
+28827,Nissan Micra,False,False
+32530,Volkswagen UP,False,False
+77121,Hyundai i10,False,False
+216930,Ford Transit,False,False
+172554,Peugeot 208,False,False
+135008,Ford Transit,False,False
+211772,Toyota AYGO,False,False
+222902,Renault Twingo,False,False
+81433,Peugeot 208,False,False
+33739,Citroen C1,False,False
+207357,Mazda 2,False,False
+222436,Renault Clio SW,False,True
+215475,Citroën C4,False,False
+147398,Toyota AYGO,False,False
+206145,Skoda Fabia,False,False
+222599,Renault Clio HB,False,False
+234396,Citroën C1,False,False
+227177,Kia Rio,False,False
+221458,Opel Astra,False,False
+228395,Toyota Yaris,False,False
+188728,Opel Mokka,False,False
+225713,Suzuki Jimny,False,False
+228920,Fiat 500,False,False
+218380,Iveco Daily,False,False
+2410,Kia Ceed SW,False,False
+14821,Chevrolet Spark,False,False
+211169,Opel Adam,False,False
+174603,Ford Kuga,False,False
+211545,Peugeot 407,False,False
+184383,Tesla Model S,False,False
+170589,Ford Focus,False,False
+136498,Citroën Berlingo,False,False
+225195,Opel Insignia,False,False
+123800,Kia Picanto,False,False
+4427,Skoda Fabia,False,False
+226437,Peugeot 107,False,False
+204676,Peugeot 206,False,False
+36227,Tesla Model S,False,False
+77376,Citroen C4 Picasso,False,False
+37034,Ford Focus,False,False
+111628,Citroen C1,False,False
+210988,Dacia Lodgy,False,False
+23645,Toyota Yaris,False,False
+222906,Kia Picanto,False,True
+228561,Volkswagen Polo,False,False
+32481,Nissan Note,False,False
+205189,Citroën Grand C4 Picasso,False,False
+210453,Ford Transit,False,False
+211935,Ford Transit,False,False
+227479,Opel Vectra,False,False
+198744,Hyundai i10,False,False
+83972,Renault Clio,False,False
+44294,Volkswagen Touran,False,False
+82575,Ford Ka,False,False
+104846,Ford Ka,False,False
+29367,Volkswagen Transporter,False,False
+229428,Volkswagen Passat,False,False
+211959,Dacia Lodgy,False,False
+80471,Peugeot 107,False,False
+199091,Volkswagen UP!,False,False
+224685,Peugeot 307,False,False
+136045,Toyota AYGO,False,False
+136680,Hyundai i20,False,False
+182108,Peugeot 508,False,False
+221767,Audi A5,False,False
+133948,Ford Ka,False,False
+204850,Skoda Rapid,False,False
+134809,Skoda Rapid,False,False
+202526,Seat Mii,False,False
+55630,Kia Rio,False,False
+218210,Citroën C3,False,False
+991,Citroen C4,False,False
+75640,Renault Clio,False,False
+10136,Chevrolet Spark,False,False
+35458,Fiat Punto,False,False
+219889,Peugeot 208,False,False
+98357,Hyundai i10,False,False
+115546,Citroën Grand C4 Picasso,False,False
+19482,Hyundai i10,False,False
+100292,Citroen C3 Picasso,False,False
+41390,Kia Rio,False,False
+4467,Skoda Octavia,False,False
+233459,Skoda Rapid,False,False
+18658,Opel Corsa,False,False
+93521,Dacia Lodgy,False,False
+15931,Citroen C4 Cactus,False,False
+42698,Mazda 6,False,False
+157998,Ford Fiesta,False,False
+207847,Toyota Yaris,False,False
+40908,Hyundai i10,False,False
+222420,Opel Karl,False,False
+229352,Renault Clio HB,False,False
+228921,Fiat 500,False,False
+221898,Volkswagen UP!,False,False
+210572,Volkswagen UP!,False,False
+88874,Fiat 500,False,False
+145122,Renault Clio HB,False,False
+126884,Peugeot 208,False,False
+48162,Toyota Yaris,False,False
+213401,Toyota Yaris,False,False
+224236,Toyota Yaris,False,False
+209486,Nissan Qashqai,False,False
+48301,Opel Corsa,False,False
+226640,Ford Fiesta,False,False
+232455,Volkswagen UP!,False,False
+220033,Skoda Citigo,False,False
+223550,Iveco Daily,False,False
+40149,Skoda Octavia,False,False
+150382,Skoda Octavia,False,False
+164773,Citroen C3,False,False
+137987,Peugeot 2008,False,False
+101641,Citroën C4 Cactus,False,False
+12755,Dacia Lodgy,False,False
+221677,Chevrolet Cruze,False,True
+48138,Toyota Avensis,False,False
+117667,Peugeot 308,True,False
+217986,Opel Corsa,False,False
+227325,Citroën C4 Cactus,False,False
+95586,Renault Megane,False,False
+42111,Volkswagen Caddy,False,False
+113774,Ford Ka,False,False
+47454,Toyota AYGO,False,False
+52137,Toyota C-HR,False,False
+201066,Mercedes Sprinter,False,False
+25826,Opel Agila,False,False
+205019,Suzuki Ignis,False,False
+162531,Toyota AYGO,False,False
+65622,Renault Clio SW,False,False
+205153,Ford Mondeo,False,False
+99390,Suzuki Ignis,False,False
+215774,MINI Cooper,False,False
+212258,Volkswagen Golf,False,False
+81761,Nissan Qashqai,False,False
+71704,Citroën C3 Picasso,False,False
+26694,Opel Corsa,False,False
+101912,Hyundai i10,False,False
+482,Skoda Fabia,False,False
+16439,Citroën C3,False,False
+90691,Tesla Model S,False,False
+65894,Tesla Model S,False,False
+77386,Ford Transit,False,False
+48147,Seat Mii,False,False
+26607,Volkswagen Golf,False,False
+130378,Hyundai i20,False,False
+114876,Ford Ka,False,False
+22794,Citroen C1,False,False
+223803,Toyota RAV4,False,False
+135758,Peugeot 208,False,False
+193232,Ford Galaxy,False,False
+24567,Peugeot 208,False,False
+115335,Kia Rio,False,False
+212491,Hyundai i20,False,False
+125156,Citroen C4 Cactus,False,False
+109568,Opel Insignia,False,False
+106632,Suzuki S-Cross,False,False
+2382,Volkswagen UP!,False,False
+138884,Chevrolet Spark,False,False
+4673,Suzuki Splash,False,False
+508,Citroen C4 Cactus,False,False
+138116,Kia Rio,False,False
+143723,Opel Zafira,False,False
+218142,Citroën C1,False,False
+210516,Toyota Prius,False,False
+163594,Toyota Prius,False,False
+35880,Renault Grand Scenic,False,False
+91460,Ford Fiesta,False,False
+112665,Toyota Yaris,False,False
+13173,Peugeot 108,False,False
+125005,Volkswagen Passat,False,False
+202166,Volkswagen Polo,False,False
+220588,Peugeot 308 SW,False,False
+217384,Renault Trafic,False,False
+19937,Hyundai i10,False,False
+9468,Ford S-MAX,False,False
+229863,Suzuki S-Cross,False,False
+28237,Tesla Model S,False,False
+42860,Renault Clio SW,False,False
+228302,Volkswagen Polo,False,False
+228981,Volkswagen Polo,False,False
+16112,Toyota Yaris,False,False
+39874,Hyundai i10,False,False
+219847,Seat Mii,False,False
+67275,Skoda Fabia,False,False
+98299,Ford Fiesta,False,False
+182218,Skoda Citigo,False,False
+12246,Tesla Model S,False,False
+71201,Citroen C1,False,False
+60122,Peugeot 107,False,False
+129476,Ford Ka,False,False
+18987,Fiat 500,False,False
+47806,Fiat Grande Punto,False,False
+127574,Citroën C4 Cactus,False,False
+62694,Kia Rio,False,False
+132166,Ford Focus,False,False
+219328,Ford Focus,False,False
+50026,Opel Astra,False,False
+138439,Ford Fiesta,False,False
+135769,Volkswagen Golf,False,False
+231364,Citroën Berlingo,False,False
+224494,Audi A1,False,False
+71727,Volkswagen UP!,False,False
+32362,Suzuki Ignis,False,False
+124833,Renault Megane,False,False
+215799,BMW 5 Series,False,False
+111350,Ford Fiesta,False,False
+206313,Volkswagen Scirocco,False,True
+76772,Citroen C1,False,False
+118322,Tesla Model S,False,False
+122517,Citroën C3,False,False
+77536,Opel Astra,False,False
+221002,Citroën DS3,False,False
+51485,Opel Corsa,False,False
+219317,Peugeot 208,False,False
+86845,Renault Megane,False,False
+206961,Suzuki Swift,False,False
+27454,Opel Corsa,False,False
+227781,Jaguar X-Type,False,False
+227774,BMW 3 Series,False,False
+231405,Volkswagen Golf,False,True
+7074,Suzuki Alto,False,False
+211937,Peugeot 108,False,False
+128884,Skoda Citigo,False,False
+37472,Mazda 3,False,False
+44555,Mazda 2,False,False
+211616,Volkswagen Golf Stationcar,False,False
+213228,Volkswagen Golf Stationcar,False,False
+213226,Volkswagen Golf Stationcar,False,False
+206647,Volkswagen Golf Stationcar,False,False
+6737,Citroen C3,False,False
+222909,Tesla Model S,False,False
+119451,Seat Arona,False,False
+84794,Kia Ceed,False,False
+136321,Renault Clio,False,False
+165629,Skoda Fabia,False,False
+70181,Peugeot 208,False,False
+210912,Peugeot 208,False,False
+202758,Suzuki Ignis,False,False
+229318,Kia Rio,False,False
+207492,Toyota AYGO,False,False
+103326,Skoda Fabia,False,False
+205858,Volkswagen UP!,False,False
+223077,Citroën C3,False,False
+126349,Tesla Model S,False,False
+64491,Audi A1,False,False
+196647,Renault Master,False,False
+206510,Volkswagen UP!,False,False
+224989,Volkswagen Passat,False,False
+60646,Kia Picanto,False,False
+219684,Suzuki Ignis,False,True
+196641,Renault Trafic,False,False
+79953,Hyundai i10,False,False
+213922,Volkswagen Polo,False,False
+33568,Opel VIVARO,False,False
+56041,Mercedes Sprinter,False,False
+20647,Volkswagen Golf,False,False
+209570,Opel Insignia,False,False
+1337,Kia Rio,False,False
+125068,Citroen C4,False,False
+11820,Nissan Juke,False,False
+86588,Renault Clio HB,False,False
+48185,Opel Corsa,False,False
+217794,Ford Mondeo,False,False
+208128,Peugeot 207,False,False
+112717,Nissan Juke,False,False
+157119,Citroen C4 Cactus,False,False
+198194,Toyota Yaris,False,False
+11155,Seat Mii,False,False
+13592,Hyundai i30,False,False
+25245,Peugeot 208,False,False
+97494,Skoda Fabia,False,False
+119791,Kia Ceed SW,False,False
+164861,Skoda Octavia,False,False
+206953,Suzuki Wagon R,False,False
+226055,Kia Picanto,False,False
+73558,Ford Transit,False,True
+209377,Ford Ka,False,False
+21187,Renault Captur,False,False
+227923,Ford Focus,False,False
+213578,BMW 2 Series,False,False
+34463,Mazda 3,False,False
+5474,Citroen C1,False,False
+132200,Volkswagen Golf,False,False
+228465,Volkswagen Polo,False,False
+197921,Peugeot 107,False,False
+42942,Seat Ibiza,False,False
+49926,Volvo S40,False,False
+50331,Suzuki Baleno,False,False
+222752,Dacia Lodgy,False,False
+209105,MINI Countryman,False,False
+50574,Chevrolet Spark,False,False
+228963,Volkswagen Golf,False,False
+206507,Mitsubishi Colt,False,False
+209097,Renault Clio SW,False,False
+39275,Toyota AYGO,False,False
+77468,Hyundai i10,False,False
+83741,Hyundai i10,False,False
+53550,Renault Grand Scenic,False,False
+224812,Volkswagen Polo,False,False
+14264,Hyundai i10,False,False
+136500,Volkswagen Polo,False,False
+110010,Ford Ka,False,False
+103306,Kia Rio,False,False
+27181,Seat Ibiza ST,False,False
+39970,Citroen C1,False,False
+25044,Mazda 2,False,False
+67039,Mitsubishi Space Star,False,False
+137146,Opel Crossland X,False,False
+229100,Skoda Fabia,False,False
+165852,Skoda Citigo,False,False
+113888,Peugeot 207 SW,False,True
+233064,Opel Insignia,False,True
+213154,Kia Picanto,False,False
+226420,Skoda Citigo,False,False
+233300,Opel Crossland X,False,True
+196645,Renault Trafic,False,False
+213054,Peugeot 5008,False,False
+22175,Ford Transit,False,False
+163404,Skoda Octavia,False,False
+117778,Peugeot 208,False,False
+131884,Kia Picanto,False,False
+117254,Mercedes Sprinter,False,False
+65628,Ford Ka,False,False
+215376,Ford Fiesta,False,False
+105945,Kia Rio,False,False
+9760,Toyota AYGO,False,False
+117318,Ford S-MAX,False,False
+227359,Peugeot 107,False,False
+108123,Renault Clio HB,False,False
+97401,Tesla Model S,False,False
+111320,Citroen C1,False,False
+137415,Skoda Superb,False,False
+200802,Renault Grand Scenic,False,False
+217179,Peugeot 508,False,False
+38309,Honda Jazz,False,False
+192462,Peugeot 208,False,False
+221014,Peugeot 207,False,False
+201556,Toyota Yaris,False,False
+110252,Hyundai i10,False,False
+144541,Renault Clio HB,False,False
+78929,Volkswagen Jetta,False,False
+224834,Audi A3,False,False
+211928,Fiat Punto,False,False
+48023,Citroen C4,False,False
+39070,Alfa Romeo MiTo,False,False
+132191,Peugeot 108,False,False
+182751,Citroen Grand C4 Picasso,False,False
+3386,Toyota AYGO,False,False
+544,Toyota Yaris,False,False
+121134,Toyota Yaris,False,True
+19924,Peugeot 308,False,False
+210440,Volkswagen Golf Sportsvan,False,False
+56693,Ford Ka,False,False
+122383,Volkswagen Caravelle,False,False
+214005,Volkswagen UP!,False,False
+35144,Mercedes C-Class,False,False
+82814,Mazda MX-5,False,False
+133543,Seat Mii,False,False
+159638,Seat Leon,False,False
+91818,Citroen C1,False,False
+42803,Peugeot 407 SW,False,False
+213227,Skoda Octavia,False,False
+124589,Renault Captur,False,False
+139223,Renault Kadjar,False,False
+38251,Opel Corsa,False,False
+229840,Toyota AYGO,False,False
+117058,Audi A3,False,False
+226694,Renault Clio HB,False,False
+129255,Skoda Fabia,False,False
+207265,Citroën C3,False,False
+37082,Opel Corsa,False,False
+10659,Suzuki Swift,False,False
+204462,Volkswagen California,False,False
+230326,Tesla Model 3,False,False
+212080,Skoda Octavia,False,False
+218316,Toyota AYGO,False,False
+174262,Hyundai Ioniq,False,False
+217488,Skoda Fabia,False,False
+220101,Citroën C1,False,False
+199907,Toyota AYGO,False,False
+130551,Volkswagen Polo,False,False
+228056,Citroën C4 Cactus,False,False
+227227,Renault Clio HB,False,False
+53549,Tesla Model S,False,False
+72304,Kia Picanto,False,False
+136227,Peugeot 208,False,False
+211399,Peugeot 308 SW,False,False
+227518,Kia Ceed,False,False
+34876,Audi A3,False,False
+209207,Renault Clio SW,False,False
+219506,Opel Zafira,False,False
+107655,Nissan Micra,False,False
+80189,Volkswagen Polo,False,False
+205653,Citroën C3,False,False
+104087,Toyota AYGO,False,False
+99009,Peugeot 308 SW,False,False
+225698,Citroën Grand C4 Picasso,False,False
+144262,Hyundai i10,False,False
+224226,Volkswagen UP!,False,False
+225448,Chevrolet Orlando,False,False
+225692,Peugeot 107,False,False
+76959,Toyota Avensis,False,False
+134965,Chevrolet Spark,False,False
+5526,Dacia Lodgy,False,False
+208311,Renault Master,False,False
+204815,Citroën C3,False,False
+120866,Seat Ibiza ST,False,False
+228491,Hyundai i30,False,False
+163948,Peugeot 3008,False,False
+226888,Fiat Punto,False,False
+32627,Hyundai i10,False,False
+86069,Skoda Octavia,False,False
+187903,Opel Astra,False,False
+126954,Volkswagen UP,False,False
+52723,Volkswagen Passat,False,False
+20497,Nissan Micra,False,False
+222715,Suzuki Baleno,False,False
+89860,Volkswagen UP,False,False
+49987,Nissan Qashqai,False,False
+25799,Citroen C1,False,False
+129714,Fiat 500,False,False
+34123,Volkswagen Beetle,False,False
+216851,BMW 5 Series,False,False
+210494,Renault Clio SW,False,False
+80250,Hyundai i20,False,False
+51043,Toyota AYGO,False,False
+210774,Renault Clio HB,False,False
+233322,Citroën C1,False,False
+126036,Kia Picanto,False,False
+234508,Peugeot 508,False,False
+129298,Seat Leon,False,False
+36390,Chevrolet Orlando,False,False
+100271,Toyota C-HR,False,False
+225672,Ford Focus,False,False
+29795,Peugeot 208,False,False
+50759,Seat Mii,False,False
+60012,Kia Rio,False,False
+81065,Ford Transit,False,False
+125451,BMW 5 series,False,False
+16389,Skoda Citigo,False,False
+231772,Suzuki Alto,False,False
+39382,Toyota Yaris,False,False
+219825,Kia Picanto,False,False
+35564,MINI Countryman,False,False
+188174,Toyota Yaris,False,False
+201914,Citroën C3,False,False
+233604,Peugeot 308,False,True
+200034,Citroën C3,False,False
+232546,Opel Crossland X,False,False
+211962,Peugeot 208,False,False
+232109,Opel Astra,False,True
+63439,Volkswagen UP!,False,False
+205619,Citroën C4,False,False
+25935,Skoda Citigo,False,True
+48230,Citroën C3,False,False
+97218,Skoda Fabia,False,False
+667,Renault Scenic,False,False
+211625,Volkswagen UP!,False,False
+138899,Skoda Fabia,False,False
+224585,Ford Focus,False,False
+53638,SMART Fortwo,False,False
+111694,Renault Clio,False,False
+35523,Renault Master,False,False
+205379,Hyundai i20,False,False
+205544,Peugeot 208,False,False
+231408,Peugeot Boxer,False,False
+8379,Opel Meriva,False,False
+204554,BMW 5 Series,False,False
+57534,Citroen C3,False,False
+221755,Mazda 2,False,False
+60961,Volkswagen UP!,False,False
+182980,Volkswagen Polo,False,False
+214067,Kia Picanto,False,False
+7918,Citroen C4 Picasso,False,False
+79045,Peugeot 208,False,False
+207047,Audi A6,False,False
+198278,Hyundai i10,False,False
+220177,Peugeot 508,False,False
+127392,Renault Megane,False,False
+227494,Hyundai i20,False,False
+186260,Seat Ibiza,False,False
+5153,Renault Captur,False,False
+67840,Volkswagen Jetta,False,False
+179681,Suzuki Splash,False,False
+212870,Toyota AYGO,False,False
+127247,Peugeot 208,False,False
+27541,Ford Fiesta,False,False
+232924,Volkswagen Golf Sportsvan,False,False
+205614,Ford C-Max,False,False
+214946,Citroën C3,False,False
+51309,Renault Trafic,False,False
+100761,Skoda Citigo,False,False
+111568,Iveco Daily,False,False
+13976,Volkswagen UP!,False,False
+227620,Opel Corsa,False,False
+215955,Peugeot 206+,False,True
+227590,Renault Clio HB,False,False
+228482,Opel Corsa,False,False
+17033,Chevrolet Aveo,False,False
+233046,Audi A4 Avant,False,True
+234246,Skoda Citigo,False,True
+206087,Renault Megane,False,False
+233797,Suzuki Swift,False,True
+234020,Citroën C1,False,False
+209735,Toyota ProAce,False,False
+49948,Skoda Fabia,False,False
+91477,Kia Rio,False,False
+126345,Peugeot 2008,False,False
+129132,Peugeot 2008,False,False
+52790,Nissan Quasqai Tekna med alt i udstyr fra 2016,False,False
+116474,Volkswagen UP,False,False
+131543,Volkswagen Polo,False,False
+211518,Chevrolet Matiz,False,False
+210177,Renault Clio HB,False,False
+117363,Carado T 138,False,False
+218741,Audi A3,False,False
+127509,Peugeot 208,False,False
+35036,Skoda Citigo,False,False
+212196,Daewoo Kalos,False,False
+113424,Volkswagen California,False,False
+180629,Citroen C3,False,False
+204181,Tesla Model 3,False,False
+94007,Volkswagen UP,False,False
+22535,Peugeot 108,False,False
+40626,Mitsubishi ASX,False,False
+184326,Renault Kadjar,False,False
+103197,Renault Kadjar,False,False
+206954,Ford Galaxy,False,False
+128301,Citroën C4 Picasso,False,False
+42573,Renault Fluence Z.E.,False,True
+228633,Hyundai i10,False,False
+214154,Citroën C3,False,False
+35990,Toyota Yaris,False,False
+44177,Skoda Fabia,False,False
+211413,Citroën C1,False,False
+139642,Toyota AYGO,False,False
+110102,Alfa Romeo Giulietta,False,False
+203787,Suzuki Swift,False,False
+225659,Suzuki Swift,False,False
+225210,Kia Picanto,False,False
+204471,Peugeot 208,False,False
+101817,Renault Grand Scenic,False,False
+201696,Hyundai i10,False,False
+45068,Honda Civic,False,False
+27492,Volkswagen UP,False,False
+157530,Peugeot 107,False,False
+15285,Citroen C1,False,False
+3616,Kia Picanto,False,False
+70625,Honda Civic,False,False
+43620,Peugeot 108,False,False
+202396,Peugeot 3008,False,False
+192950,Suzuki Swift,False,False
+196906,Toyota Yaris,False,False
+208298,Mercedes A-Class,False,False
+183381,Ford Focus,False,False
+195865,Ford Focus,False,True
+232432,Volkswagen UP!,False,False
+33549,Dacia Lodgy,False,False
+1089,Peugeot 308,False,False
+74124,Skoda Fabia,False,False
+220329,Volkswagen Touran,False,False
+220034,Audi A4,False,False
+30836,Skoda Citigo,False,False
+211647,Kia Rio,False,False
+209843,Skoda Citigo,False,False
+114029,Renault Clio HB,False,False
+213267,Opel Corsa,False,False
+117871,Kia Picanto,False,False
+211634,Mercedes Vito,False,False
+118353,SMART Fortwo,False,False
+128998,Volkswagen Golf,False,False
+21402,Opel Corsa,False,False
+37249,Kia Picanto,False,False
+118850,Peugeot 207,False,False
+174503,Citroen C1,False,False
+117910,Volkswagen Golf,False,False
+138600,Volkswagen T-Cross,False,False
+46950,Nissan Qashqai,False,False
+21634,Kia Picanto,False,False
+77507,Volkswagen Touran,False,False
+90277,Fiat 500,False,False
+73443,Citroen C1,False,False
+186189,Renault Clio HB,False,False
+104111,Skoda Citigo,False,False
+206542,Toyota ProAce,False,False
+48519,Suzuki Swift,False,False
+89301,Renault Clio,False,False
+33620,Citroen C1,False,False
+138719,Renault Twingo,False,False
+143816,Volkswagen Passat,False,False
+61325,Skoda Citigo,False,False
+218225,Renault Megane,False,False
+216651,Renault Clio HB,False,False
+216067,Renault Captur,False,False
+210250,Ford Galaxy,False,False
+219494,Mazda 3,False,False
+220988,Toyota AYGO,False,False
+213159,Renault Clio SW,False,False
+234546,Skoda Octavia,False,True
+232037,Nissan LEAF,False,False
+230636,Skoda Octavia,False,True
+230789,Hyundai i10,False,False
+1249,Mercedes Vito,False,False
+144672,Kia Rio,False,False
+123941,Citroen EL,False,False
+168687,Peugeot 308,False,False
+612,Skoda Fabia,False,False
+32184,Toyota AYGO,False,False
+211048,Peugeot 208,False,False
+173993,Hyundai i10,False,False
+3825,Chevrolet Aveo,False,False
+219687,Ford Tourneo,False,False
+41950,Dacia Lodgy,False,False
+50172,Suzuki verera ,False,False
+200011,Toyota Yaris,False,False
+30006,Honda Accord,False,False
+90478,Nissan Qashqai,False,False
+126326,Citroën C4 Cactus,False,False
+126231,Renault Clio SW,False,False
+118801,Opel Corsa,False,False
+14062,Volkswagen Golf,False,False
+215383,Volkswagen Touran,False,False
+89587,Skoda Fabia,False,False
+124077,Hyundai i40,False,False
+99207,Tesla Model S,False,False
+118137,Peugeot 208,False,False
+70850,Peugeot 308,False,False
+27116,Audi A4,False,False
+105646,Hyundai i20,False,False
+62633,Peugeot 206,False,False
+218113,Peugeot 107,False,False
+206321,Citroën C3,False,False
+225352,Tesla Model 3,False,False
+22583,Volkswagen UP,False,False
+42143,Hyundai i10,False,False
+5147,Suzuki Splash,False,False
+216669,Renault Clio HB,False,False
+95258,Tesla Model S,False,False
+123579,Citroen C3,False,False
+41743,Skoda Citigo,False,False
+60956,Citroën C1,False,False
+214834,Renault Clio SW,False,False
+232823,Opel Corsa,False,False
+234364,Ford Fiesta,False,True
+134956,Mitsubishi Pajero,False,False
+232940,Citroën C5,False,True
+192168,Hyundai Kona,False,False
+213736,Kia Ceed,False,False
+233205,Volkswagen UP!,False,True
+232822,Skoda Citigo,False,True
+232986,Opel Corsa,False,False
+231475,Citroën C3,False,True
+230101,Citroën Grand C4 Picasso,False,True
+133231,Nissan Primastar,False,False
+118745,Nissan Qashqai,False,False
+210639,Hyundai i10,False,False
+188635,Renault Clio SW,False,False
+49583,Citroën Berlingo,False,False
+205387,Fiat 500,False,False
+41944,Mazda MX-5,False,False
+223520,Peugeot 206+,False,False
+224118,Ford Transit,False,False
+21192,Citroën C4 Cactus,False,False
+126563,Seat Mii,False,False
+46782,Citroen C4 Cactus,False,False
+146636,Audi A4,False,False
+216149,Renault Megane,False,False
+83544,Toyota AYGO,False,False
+136646,Peugeot 208,False,False
+151449,Citroen C4 Cactus,False,False
+132295,Citroen C1,False,False
+225584,Audi A5,False,False
+34912,Ford Transit,False,False
+131740,Citroen C1,False,False
+66413,Skoda Citigo,False,False
+22282,Hyundai i10,False,False
+214287,Suzuki Swift,False,False
+217153,Nissan Note,False,False
+64066,Toyota AYGO,False,False
+40323,Ford Focus,False,False
+33607,Kia Rio,False,False
+110127,"VW Golf VII 1,5",False,False
+98629,Opel Zafira,False,False
+23132,Volkswagen UP!,False,False
+184226,Renault Clio SW,False,False
+51212,Hyundai i20,False,True
+221585,Ford Focus,False,False
+44152,Toyota AYGO,False,False
+233065,Ford Mondeo,False,True
+232814,Ford Fiesta,False,False
+131041,Suzuki Swift,False,False
+142251,Fiat 500,False,False
+206271,Hyundai i20,False,False
+210229,Citroën C1,False,False
+230504,Peugeot 3008,False,False
+234014,Hyundai i10,False,False
+213349,Toyota AYGO,False,False
+234448,Opel Corsa,False,False
+216756,Volkswagen UP!,False,False
+217688,Seat Ibiza,False,False
+233564,Citroën C1,False,False
+131551,Volkswagen Golf,False,False
+217724,Opel Astra,False,False
+41569,Toyota AYGO,False,False
+82329,Chevrolet Nubira,False,False
+43506,Ford Fiesta,False,False
+48662,Peugeot 206,False,False
+157447,Skoda Superb,False,False
+12086,Renault Twingo,False,False
+90177,DS 3 ,False,False
+9799,Peugeot 107,False,False
+206387,Tesla Model 3,False,False
+64080,Suzuki Alto,False,False
+36238,Renault Captur,False,False
+153952,Volkswagen UP!,False,False
+38590,Toyota AYGO,False,False
+217869,Opel VIVARO,False,False
+223928,Kia Picanto,False,False
+211695,Renault Twingo,False,False
+228121,Volkswagen Polo,False,False
+137951,Renault Clio,False,False
+44083,Opel Astra,False,False
+215463,Ford Fiesta,False,False
+62411,Volkswagen Touran,False,False
+208104,Kia Niro,False,False
+198713,Suzuki Swift,False,True
+218613,Hyundai i10,False,False
+31901,Renault Clio SW ,False,False
+32989,Peugeot 207,False,False
+73689,Hyundai i10,False,False
+221841,Fiat Ducato,False,True
+207629,Toyota AYGO,False,False
+206292,Iveco Daily,False,False
+206293,Iveco Daily,False,False
+186690,Volkswagen Polo,False,False
+45597,Peugeot 107,False,False
+48316,Hyundai i10,False,False
+44032,Seat Mii,False,False
+221587,Citroën Jumper,False,False
+137803,Chevrolet Spark,False,False
+114443,Fiat Ducato,False,False
+212415,Citroën C3,False,False
+138740,Peugeot 308,False,False
+204989,Fiat Punto,False,False
+30713,Suzuki Alto,False,False
+203982,Iveco Daily,False,False
+203977,Fiat Ducato,False,False
+203978,Citroën Jumper,False,False
+203981,Iveco Daily,False,False
+203898,Citroën Jumper,False,False
+203896,Fiat Ducato,False,False
+203897,Citroën Jumper,False,False
+203979,Iveco Daily,False,False
+203895,Citroën Jumper,False,False
+103185,Peugeot Boxer,False,False
+203980,Iveco Daily,False,False
+208820,Volkswagen Transporter,False,False
+207094,Ford Fiesta,False,False
+71442,Ford Ka,False,False
+215128,Citroën C1,False,False
+133861,Renault Grand Scenic,False,False
+23452,Renault Captur,False,False
+110918,Peugeot 208,False,False
+136641,Volvo V40,False,False
+212557,Mazda 2,False,False
+225192,Citroën C1,False,False
+129889,Ford Focus,False,False
+92670,DS 3,False,False
+129245,Ford Fiesta,False,False
+110951,Citroën C3,False,False
+222738,Renault Clio HB,False,False
+115142,Citroën C3,False,True
+7642,Suzuki Alto,False,False
+96219,Renault Clio,False,False
+222916,Citroën C1,False,False
+160642,Volkswagen Caddy,False,False
+204971,Volkswagen UP!,False,False
+213665,Citroën C3 Picasso,False,False
+223486,Volkswagen California,False,False
+28534,Tesla Model S,False,False
+209055,Volkswagen UP!,False,False
+226188,Renault Clio HB,False,False
+217224,Citroën C5 Aircross,False,False
+229527,Peugeot 308 SW,False,False
+230167,Ford Transit,False,True
+231519,MINI Countryman,False,False
+233767,Volkswagen Golf Stationcar,False,False
+30377,Peugeot 5008,False,False
+231091,Citroën C3,False,False
+233408,Ford Fiesta,False,False
+232991,Fiat 500,False,False
+212264,Skoda Octavia,False,False
+234030,Peugeot 208,False,False
+200134,Volkswagen Polo,False,False
+233846,Nissan Note,False,False
+230981,Volkswagen Golf Sportsvan,False,False
+123292,Hyundai i40,False,False
+230928,Citroën C1,False,False
+216933,BMW 1 Series,False,False
+204337,Mazda 6,False,False
+17576,Volkswagen UP,False,False
+45034,Mazda 6,False,False
+233580,Ford Transit,False,False
+1578,Skoda Citigo,False,False
+216755,Citroën C1,False,False
+111002,Citroën C4 Cactus,False,False
+138437,Volkswagen Touran,False,False
+81820,Kia Picanto,False,False
+137430,Fiat Fiorino,False,False
+126346,Dacia Lodgy,False,False
+187388,Opel Karl,False,False
+89790,Peugeot 5008,False,False
+14267,Tesla Model S,False,False
+129276,Volkswagen Touran,False,False
+123345,Renault Clio,False,False
+214529,Skoda Superb,False,False
+20514,Citroen C1,False,False
+48643,Ford Mondeo,False,False
+213707,Mazda 3,False,False
+223129,Kia Ceed,False,False
+225919,Volkswagen UP!,False,False
+233323,Kia Rio,False,False
+69289,Ford C-Max,False,False
+221156,Renault Twingo,False,False
+225779,Volkswagen Golf Stationcar,False,False
+108441,Volkswagen Golf,False,False
+37486,Peugeot 208,False,False
+232539,Dacia Sandero,False,False
+231015,Volkswagen Golf,False,False
+185941,Peugeot 108,False,False
+213411,Citroën Berlingo,False,False
+233922,Volkswagen Polo,False,False
+230229,Volkswagen Touran,False,False
+204476,Citroën C1,False,False
+216794,Peugeot 208,False,False
+215399,Citroën C1,False,False
+1684,Hyundai i10,False,True
+217839,Skoda Citigo,False,False
+42354,Audi A3,False,False
+44094,Peugeot 108,False,False
+205609,Iveco Daily,False,False
+210565,Iveco Daily,False,False
+210566,Iveco Daily,False,False
+208921,Fiat Ducato,False,False
+188639,Renault Clio HB,False,False
+1150,Peugeot 107,False,False
+17259,Tesla Model S,False,False
+220717,Renault Clio SW,False,False
+224550,Citroën C3,False,True
+128252,citroen c4 grand picasso,False,False
+204673,Tesla Model 3,False,False
+191286,Skoda Kodiaq,False,False
+212522,Ssangyoung Kodando,False,False
+207739,Chevrolet Spark,False,False
+16410,Hyundai i20,False,False
+194166,Renault Megane,False,False
+179213,Hyundai i10,False,False
+232372,Volkswagen UP!,False,False
+233207,Citroën C1,False,False
+233370,Audi A6,False,False
+232961,Opel Insignia,False,False
+24575,Tesla Model S,False,False
+234479,BMW 1 Series,False,False
+22342,Mazda 2,False,False
+230135,BMW 1 Series,False,False
+46131,Hyundai i20 CRDI,False,True
+231373,Audi A3,False,False
+228915,Peugeot 307 SW,False,False
+108494,Suzuki Baleno,False,False
+233318,Suzuki Baleno,False,False
+229199,Ford Focus,False,False
+174096,Honda CR-V,False,False
+17692,Volkswagen Golf,False,False
+231941,Volkswagen Golf,False,False
+135470,Hyundai i30,False,False
+41176,Fiat Punto,False,False
+10206,Nissan Micra,False,False
+189606,Opel Insignia,False,False
+221649,Skoda Citigo,False,False
+36737,Toyota Yaris,False,False
+91480,Volkswagen Polo,False,False
+208823,Iveco Daily,False,False
+208829,Iveco Daily,False,False
+193695,Ford Transit,False,False
+193682,Ford Transit,False,False
+208828,Iveco Daily,False,False
+193697,Ford Transit,False,False
+20135,Kia Rio,False,False
+216421,Toyota Auris Hybrid,False,False
+14266,Tesla Model S,False,False
+211434,Volkswagen Beetle,False,False
+132081,Volkswagen T-Cross,False,False
+231636,Opel Corsa,False,False
+233344,Mercedes C-Class,False,False
+233885,Citroën C1,False,False
+234087,Skoda Citigo,False,False
+213627,Ford Focus,False,False
+60913,Peugeot 2008,False,False
+66727,Citroën C4 Picasso,False,False
+110909,Toyota AYGO,False,False
+170702,Volkswagen UP!,False,False
+213776,Peugeot 207,False,False
+225949,BMW 3 Series,False,False
+231739,Volkswagen Passat,False,False
+234174,Opel Agila,False,False
+232819,Fiat Panda,False,False
+234483,Chevrolet Aveo,False,False
+231938,Renault Grand Scenic,False,False
+222297,Mazda 3,False,False
+232731,Dacia Logan,False,False
+191978,Peugeot 508,False,False
+227858,Renault Captur,False,False
+4943,Hyundai i10,False,False
+99966,Skoda Fabia,False,False
+210628,Nissan Juke,False,False
+220979,Opel Corsa,False,False
+234687,Citroën Grand C4 Picasso,False,False
+117822,Renault Twingo,False,False
+1,Suzuki Swift,False,False
+195099,Opel Karl,False,False
+217695,Hyundai i10,False,False
+218969,Renault Clio SW,False,False
+218623,Kia Niro,False,False
+103118,Skoda Fabia,False,False
+110812,Seat Ibiza,False,False
+202555,Peugeot 2008,False,False
+24108,Citroen C3,False,False
+133238,Ford Focus,False,False
+194560,Ford Focus,False,False
+122845,Kia Picanto,False,False
+128097,Kia Picanto,False,False
+210247,Kia Ceed,False,False
+204004,Toyota Avensis,False,False
+128099,Peugeot 307 SW,False,False
+210498,Skoda Citigo,False,False
+104368,Skoda Citigo,False,False
+159643,Peugeot 2008,False,False
+200761,Dacia Lodgy,False,False
+43039,Volvo V70,False,False
+193688,Ford Transit,False,False
+179393,Volkswagen Caravelle,False,False
+193691,Ford Transit,False,False
+361,Citroën C1,False,False
+191428,Toyota AYGO,False,False
+213733,Fiat 500,False,False
+180582,Hyundai Getz,False,False
+204622,Peugeot 206+,False,False
+228378,Mitsubishi Space Star,False,False
+45265,Tesla Model S,False,False
+213014,Volkswagen UP!,False,False
+207262,Skoda Octavia,False,False
+113429,Renault Clio,False,False
+28829,Fiat Punto,False,False
+153025,Mazda CX-5,False,False
+224975,Citroën C5,False,False
+208961,Ford Mondeo,False,False
+206393,Opel Astra,False,False
+211659,Volkswagen Polo,False,False
+230098,Volkswagen UP!,False,False
+232753,Mitsubishi Colt,False,False
+234146,Fiat 500,False,False
+222517,Skoda Fabia,False,False
+232389,Kia Ceed SW,False,False
+231201,Volkswagen Passat,False,False
+219833,Tesla Model 3,False,False
+230086,MG ZS,False,False
+230531,Peugeot 206,False,False
+231917,Skoda Octavia,False,False
+232954,Mercedes CLA,False,False
+232155,Skoda Fabia,False,False
+233480,BMW 3 Series,False,False
+233868,Toyota AYGO,False,False
+208091,Kia Rio,False,False
+6939,Suzuki Swift,False,False
+132503,Ford Mondeo,False,False
+209720,Hyundai i30,False,False
+231524,Ssangyoung Kodando,False,False
+231726,Volkswagen Sharan,False,True
+51654,Ford Mondeo,False,False
+219193,Citroën C3,False,False
+166986,Audi A7,False,False
+131108,Peugeot 107,False,False
+115525,BMW 3 Series,False,False
+125058,Skoda Octavia,False,False
+140204,Chevrolet Spark,False,False
+222365,Kia Picanto,False,False
+205951,Kia Picanto,False,False
+205907,Tesla Model S,False,False
+133549,Toyota AYGO,False,False
+218071,Peugeot 208,False,False
+139649,Renault Megane,False,False
+202808,Ford Mondeo,False,False
+212104,Seat Toledo,False,False
+33660,Citroen c3 1.6 2017,False,False
+195286,Dacia Duster,False,False
+61311,Mazda 2,False,False
+210398,Volvo V40,False,False
+18857,Volkswagen UP!,False,False
+107663,Toyota ProAce,False,False
+46023,Volkswagen Polo,False,False
+227509,Volkswagen Touran,False,False
+205881,Peugeot 107,False,False
+143840,Renault Grand Scenic,False,False
+230232,Volkswagen UP!,False,False
+230619,Suzuki Vitara,False,False
+196680,Citroën C1,False,False
+233940,Skoda Octavia,False,False
+234258,BMW 5 Series,False,False
+234677,Volkswagen Polo,False,False
+42436,Toyota C-HR,False,False
+217829,Mercedes GLE,False,False
+47662,BMW 5 series,False,False
+215900,Renault Megane,False,False
+231294,Volkswagen Polo,False,False
+45894,Toyota Yaris,False,False
+93636,Volkswagen Polo,False,False
+222216,Opel Corsa,False,False
+233292,Ford Fiesta,False,False
+232264,Ford Focus,False,False
+234260,Ford S-MAX,False,False
+217919,Suzuki Swift,False,False
+234220,Citroën C1,False,False
+229283,Citroën C1,False,False
+230679,Volkswagen UP!,False,False
+4394,Mitsubishi Space Star,False,False
+194393,Kia Picanto,False,False
+217472,Chevrolet Nubira,False,False
+226388,Opel Corsa,False,False
+234431,Seat Leon,False,False
+85854,Toyota Yaris,False,False
+184087,Toyota AYGO,False,False
+202891,Opel Corsa,False,False
+42959,Renault Captur,False,False
+9633,Seat Ibiza,False,False
+3933,Renault Clio,False,False
+114458,Volkswagen UP!,False,False
+36455,Renault Clio,False,False
+40372,Ford Transit,False,False
+219864,Citroën C1,False,False
+205983,Kia Picanto,False,False
+100123,Fiat Punto,False,False
+230268,Suzuki Splash,False,False
+136136,Citroën C3,False,False
+19225,Honda Jazz,False,False
+218949,Honda Civic,False,False
+42703,Mini Clubman,False,False
+1672,Skoda Fabia,False,False
+229484,Peugeot 208,False,False
+48063,Fiat 500,False,False
+216131,Dacia Logan,False,False
+190622,Peugeot 208,False,False
+90010,Mercedes A-Class,False,False
+221015,Volkswagen Passat,False,False
+214016,Skoda Roomster,False,False
+32226,Citroën C1,False,False
+231236,Honda Civic,False,False
+232363,Mercedes Sprinter,False,False
+232406,Mercedes C-Class,False,False
+233672,Suzuki Swift,False,False
+48424,Hyundai i20,False,False
+224786,Skoda Citigo,False,False
+165725,Tesla Model S,False,False
+222499,Ford Fiesta,False,False
+218048,Volkswagen Golf Sportsvan,False,False
+231634,Peugeot 5008,False,False
+232748,Honda CR-V,False,False
+223432,Skoda Fabia,False,False
+173273,Volkswagen UP!,False,False
+231279,Toyota AYGO,False,False
+216876,Volkswagen Touran,False,False
+231788,Kia Rio,False,False
+60248,Volkswagen Polo,False,False
+208786,Seat Mii,False,False
+230566,Citroën C4 Cactus,False,False
+230788,Skoda Octavia,False,False
+234411,Nissan Qashqai,False,False
+188071,Mitsubishi Outlander,False,False
+205776,Peugeot 208,False,False
+232472,Kia Niro,False,False
+224911,Volkswagen UP!,False,False
+231680,Kia ProCeed,False,False
+234241,Ford Ka,False,False
+214725,Ford Mondeo,False,False
+118291,Mitsubishi Outlander,False,False
+176448,Peugeot 308,False,False
+173326,Toyota AYGO,False,False
+45447,Toyota Auris Hybrid,False,False
+210382,Opel Grandland X,False,False
+110436,Citroën C3,False,False
+175522,Toyota AYGO,False,False
+89711,Chevrolet Nubira,False,False
+212068,Volkswagen Polo,False,False
+20078,Audi A4,False,False
+61649,Volkswagen Polo,False,False
+230376,Citroën C3,False,False
+213197,Hyundai i10,False,False
+47687,Mitsubishi Space Star,False,False
+182540,Skoda Fabia,False,False
+190733,Volkswagen UP!,False,False
+200443,Jeep Compass,False,False
+143386,Skoda Rapid,False,False
+222387,Mini Clubman,False,False
+214868,Tesla Model 3,False,False
+232614,Kia Picanto,False,False
+157208,Volkswagen Polo,False,False
+231715,Citroën C4 Cactus,False,False
+230718,Peugeot 308,False,False
+192349,Tesla Model S,False,False
+135909,Renault Clio,False,False
+234154,Ford Mondeo,False,False
+196572,Nissan Qashqai,False,False
+210787,Mitsubishi Lancer,False,False
+144625,Kia Picanto,False,False
+3467,Kia Picanto,False,False
+15922,Citroen C5,False,False
+231793,Kia Carnival,False,False
+234052,Hyundai i30,False,False
+223305,Ford Fiesta,False,False
+172737,Chevrolet Spark,False,False
+192966,Nissan Note,False,False
+94433,Toyota AYGO,False,False
+227702,Volkswagen UP!,False,False
+230375,Mercedes A-Class,False,False
+230517,BMW 1 Series,False,False
+191768,Ford Fiesta,False,False
+232321,Peugeot 208,False,False
+233308,BMW 3 Series,False,False
+87099,Citroen C1,False,False
+193578,Volkswagen Polo,False,False
+208757,BMW 1 Series,False,False
+226890,Ford C-Max,False,False
+199489,Toyota AYGO,False,False
+233102,Skoda Citigo,False,False
+233287,Peugeot 208,False,False
+233537,Chevrolet Spark,False,False
+206269,Opel Crossland X,False,False
+234288,Fiat 500C,False,False
+234322,Volkswagen UP!,False,False
+234681,Kia Picanto,False,False
+205866,Citroën C4 Picasso,False,False
+190139,Renault Clio HB,False,False
+192380,Audi A3,False,False
+212482,BMW i3,False,False
+230640,Volkswagen UP!,False,False
+231991,Peugeot 206,False,False
+231648,Hyundai i10,False,False
+230501,Fiat Ducato,False,False
+234097,Tesla Model 3,False,False
+1464,Peugeot 207,False,False
+230195,Tesla Model S,False,False
+127747,Peugeot 107,False,False
+39663,Seat Mii,False,False
+39863,Fiat Punto,False,False
+195397,Toyota Auris Hybrid,False,False
+110339,Volkswagen UP,False,False
+224795,Renault Megane,False,False
+129560,Kia Niro,False,False
+185608,Peugeot 407 SW,False,False
+185602,Volvo XC60,False,False
+208973,Tesla Model 3,False,False
+47359,Skoda Citigo,False,False
+42965,Kia Rio,False,False
+130967,Skoda Roomster,False,False
+94143,Peugeot 308,False,False
+20654,Toyota AYGO,False,False
+62690,Peugeot 107,False,False
+150164,Kia Picanto,False,False
+174321,Citroen Berlingo,False,False
+217847,Kia Rio,False,False
+113297,SMART Fortwo,False,False
+125465,Audi A3,False,False
+164034,Citroen Grand C4 Picasso,False,False
+76607,Renault Captur,False,False
+212858,Citroën C1,False,False
+186326,Hyundai i20,False,False
+162345,Renault Captur,False,False
+18200,Peugeot 207 SW,False,False
+229180,Citroën C4 Cactus,False,False
+93496,Skoda Fabia,False,False
+33827,Peugeot 308,False,False
+206632,Citroën C1,False,False
+154160,Renault Zoe,False,False
+226729,Hyundai i20,False,False
+176972,Suzuki Swift,False,False
+35401,Fiat 500,False,False
+170162,Peugeot 108,False,False
+221749,Skoda Octavia,False,False
+204312,Nissan Juke,False,False
+227307,Hyundai Ioniq,False,False
+221208,Opel Karl,False,False
+129981,Opel Astra,False,False
+121944,Ford Fiesta,False,False
+94733,Mazda 2,False,False
+214802,MINI Cooper,False,False
+90437,BMW 1 series,False,False
+220629,Volkswagen California,False,False
+185185,Tesla Model S,False,False
+213889,Renault Captur,False,False
+205220,Renault Master,False,False
+205222,Renault Master,False,False
+46492,Citroën C4 Picasso,False,False
+158351,Citroen C1,False,False
+47460,Peugeot 108,False,False
+203889,Kia Rio,False,False
+103135,Kia Stonic,False,False
+65933,Volkswagen UP!,False,False
+171618,Volkswagen Polo,False,False
+33005,Peugeot 206,False,False
+68011,Ford Fiesta,False,True
+228197,Mitsubishi Space Star,False,False
+40139,Peugeot 307,False,False
+207644,Peugeot 108,False,False
+197065,Toyota AYGO,False,False
+224087,Hyundai i30,False,False
+100389,Audi A4,False,False
+129489,Peugeot 208,False,False
+229046,Opel Corsa,False,False
+105335,Porsche Panamera,False,False
+198551,Renault Clio HB,False,False
+215227,Toyota AYGO,False,False
+47563,Mitsubishi Colt,False,False
+33867,Ford Fiesta,False,False
+205223,Volkswagen Transporter,False,False
+73226,Fiat Punto,False,False
+209968,Peugeot 3008,False,False
+17985,Skoda Citigo,False,False
+200863,Renault Clio SW,False,False
+200240,Citroën C3 Picasso,False,False
+171023,Skoda Citigo,False,False
+5647,Hyundai i10,False,False
+1432,Citroen C1,False,False
+219976,Citroën Grand C4 Picasso,False,False
+219727,Peugeot 206+,False,False
+102680,Fiat 500,False,False
+216625,Opel Karl,False,True
+205586,BMW 5 Series,False,True
+222666,Renault Clio SW,False,False
+183390,Mercedes X-Class,False,True
+32933,Citroen C1,False,False
+19236,Peugeot 208,False,False
+42357,Fiat Panda,False,False
+216282,Suzuki Ignis,False,False
+59511,Honda Jazz,False,False
+170840,Peugeot 2008,False,False
+45976,Hyundai Prime athos 1.1 ,False,False
+222786,BMW 1 Series,False,False
+11423,Fiat Ducato,False,False
+12308,Fiat Ducato,False,False
+47931,Ford Fiesta,False,False
+214012,Peugeot 208,False,False
+13915,Citroën C3,False,False
+51806,Opel Corsa,False,False
+73219,Citroën C3,False,False
+144390,Citroen C3,False,False
+131184,Volvo V50,False,False
+15515,Volkswagen Polo,False,False
+210196,Fiat Ducato,False,False
+174911,Fiat Ducato,False,False
+210198,Fiat Ducato,False,False
+32291,Renault Clio,False,False
+127200,Hyundai i30,False,False
+40144,Fiat 500X,False,False
+221874,Renault Captur,False,False
+18803,Peugeot 107,False,False
+185581,Citroen C1,False,False
+228747,Volvo V40,False,False
+123507,Volvo V50,False,False
+34403,Hyundai i10,False,False
+221285,Opel Astra,False,False
+201339,Peugeot 206+,False,False
+215732,Kia Rio,False,False
+187371,Mercedes E-Class,False,True
+41036,Volkswagen UP,False,False
+204364,Peugeot 607,False,False
+114449,Fiat Ducato,False,False
+156604,Citroen Jumper,False,False
+120488,Mazda 3,False,False
+222345,Citroën C3,False,False
+157748,Volkswagen UP!,False,False
+15234,Peugeot 208,False,False
+209106,Renault Clio HB,False,False
+1558,Opel Insignia,False,False
+59884,Suzuki Alto,False,False
+226225,Citroën C1,False,False
+224532,Volkswagen Golf,False,False
+231562,Skoda Fabia,False,False
+213697,Ford Ka,False,False
+208296,Citroën C3,False,False
+193591,Toyota Corolla,False,False
+207279,Citroën C3,False,False
+195425,Volkswagen Transporter,False,False
+188265,Renault Master,False,False
+184848,Skoda Citigo,False,False
+35059,Seat Ibiza,False,False
+228569,Tesla Model 3,False,False
+144149,Volkswagen T-Cross,False,False
+2045,Nissan Micra,False,False
+188886,Peugeot 208,False,False
+76765,Audi A6,False,False
+36266,Volvo V40,False,False
+42164,Mazda 3,False,False
+32354,Hyundai i20,False,False
+205801,Hyundai i10,False,True
+211181,Skoda Fabia,False,False
+227374,Kia Picanto,False,True
+231664,Volkswagen UP!,False,False
+199368,Iveco Daily,False,False
+74952,Nissan Juke,False,False
+180809,Peugeot 107,False,False
+230440,Citroën C3,False,False
+205558,Ford Fiesta,False,False
+120864,Citroën C1,False,False
+41196,Renault Twingo,False,False
+5662,Ford Transit,False,False
+103769,Kia Picanto,False,False
+15965,Peugeot 3008,False,False
+223808,Mazda 3,False,False
+228057,Mazda 3,False,False
+38331,Fiat 500,False,False
+219073,Volkswagen Polo,False,False
+13231,Hyundai i10,False,False
+223668,Tesla Model S,False,False
+183528,Mazda CX-5,False,False
+208408,Volkswagen Polo,False,False
+194358,Ford Fiesta,False,False
+221018,Renault Clio SW,False,False
+227395,Peugeot 206,False,False
+213296,Peugeot Partner,False,False
+215022,Renault Clio SW,False,False
+38292,Opel Adam,False,False
+233610,Renault Grand Scenic,False,False
+180296,Ford Transit,False,False
+149148,Peugeot Boxer,False,False
+218016,Peugeot 108,False,False
+128791,Peugeot 108,False,False
+46315,Seat Mii,False,False
+214516,Audi A3,False,False
+23226,Renault Clio,False,False
+169419,Mazda 3,False,False
+136322,Peugeot 206+,False,False
+129990,Toyota AYGO,False,False
+230288,Volkswagen Caddy,False,False
+217758,Alfa Romeo 159,False,True
+230329,Tesla Model 3,False,False
+233801,Mercedes Citan,False,False
+23796,DS 3,False,False
+229145,Skoda Octavia,False,True
+208783,Renault Clio SW,False,False
+222824,Renault Clio SW,False,False
+234160,Ford Transit,False,False
+3561,Mazda 3,False,False
+134629,Skoda Fabia,False,False
+210638,Peugeot 208,False,False
+53606,Hyundai i20,False,False
+165859,Suzuki Liana,False,False
+226459,Seat Ibiza,False,False
+208123,Skoda Fabia,False,False
+207133,Audi A6,False,False
+21396,Volvo V50,False,False
+119307,Ford Fiesta,False,False
+132507,Peugeot 206,False,False
+26549,Nissan Qashqai+2,False,False
+127246,Suzuki Swift,False,False
+211132,Alfa Romeo MiTo,False,False
+186548,Citroen C1,False,True
+201845,Skoda Fabia,False,True
+222956,Suzuki Celerio,False,True
+233297,Citroën Jumpy,False,False
+24192,Peugeot 107,False,False
+45460,Seat Ibiza ST,False,False
+206888,Mercedes A-Class,False,False
+64809,Fiat Panda,False,False
+196637,Renault Twizy,False,True
+182007,Toyota Yaris,False,False
+234256,Renault Clio SW,False,False
+231660,Opel Corsa,False,True
+186468,Volkswagen Caddy,False,False
+226545,Renault Zoe,False,False
+218918,Mercedes C-Class,False,True
+219692,Renault Clio HB,False,True
+234094,Peugeot Expert,False,False
+174115,Citroen C3,False,False
+38888,Alfa Romeo Giulietta,False,False
+139986,Volkswagen Polo,False,False
+216574,Peugeot 107,False,False
+149277,Mercedes Vito,False,False
+204144,MINI Cooper,False,False
+207254,SMART Fortwo,False,False
+207384,Opel Crossland X,False,False
+120343,Toyota Yaris,False,False
+209413,Ford Fiesta,False,False
+185791,Honda Jazz,False,True
+206193,Hyundai i30,False,True
+209860,Renault Clio HB,False,False
+18072,Renault Clio,False,False
+176161,Alfa Romeo 159,False,True
+189541,Renault Clio SW,False,False
+204122,Tesla Model 3,False,False
+217045,Opel Mokka,False,True
+184416,Hyundai i10,False,False
+204674,Opel Astra,False,False
+72989,Ford Ka,False,True
+206315,Renault Clio SW,False,False
+138891,Citroën Berlingo,False,False
+62964,Skoda Fabia,False,True
+42581,Nissan Qashqai,False,False
+112658,Citroen Berlingo,False,False
+112654,Citroen Berlingo,False,False
+229424,Peugeot 208,False,False
+11877,Citroen C3,False,False
+218203,Citroën C3,False,False
+201592,Citroën C1,False,False
+229524,Volkswagen Golf,False,False
+97778,Hyundai i10,False,False
+51569,Citroen C3,False,False
+27406,Hyundai i30,False,False
+71728,Renault Trafic,False,False
+71730,Opel VIVARO,False,False
+80809,Peugeot 208,False,False
+183028,Ford Transit,False,False
+146378,Peugeot Expert,False,False
+229580,Renault Clio HB,False,False
+31183,Ford S-MAX,False,False
+101413,Skoda Citigo,False,False
+218645,Renault Kadjar,False,False
+168619,Fiat 500,False,False
+193609,Skoda Rapid,False,False
+209911,Peugeot 208,False,False
+208096,Volkswagen California,False,False
+205762,Hyundai i10,False,False
+219607,Mitsubishi Space Star,False,False
+109321,Renault Twingo,False,False
+155043,Citroen Grand C4 Picasso,False,False
+209828,BMW 3 Series,False,False
+46011,Toyota Avensis,False,False
+185139,Subaru Outback,False,False
+228769,Mazda 3,False,False
+229393,Ford Focus,False,False
+200174,Nissan Qashqai,False,False
+37766,Chevrolet Cruze,False,False
+227170,Volvo V60,False,False
+218023,Audi A4,False,False
+51433,Volkswagen UP,False,False
+33019,Chevrolet Spark,False,False
+79763,Fiat Ducato,False,False
+206203,Toyota Corolla,False,False
+222561,BMW 5 Series,False,False
+23907,Mercedes C-Class,False,False
+225223,Ford Fiesta,False,False
+202063,Citroën C2,False,False
+217225,McLouis Nevis,False,False
+211227,Volkswagen Passat,False,False
+199614,Volvo S90,False,False
+62143,Audi A6 Avant,False,False
+212670,Seat Leon,False,False
+77069,Citroën C4,False,False
+15182,Fiat Ducato,False,False
+227939,Volkswagen Passat,False,False
+222051,Peugeot 5008,False,False
+227596,Chevrolet Spark,False,False
+119621,Audi A4 Avant,False,False
+182588,Ford Focus,False,False
+220840,Audi A6,False,False
+221143,Volkswagen Passat,False,False
+132311,BMW 1 Series,False,False
+24510,Peugeot 308,False,False
+210728,Audi A3,False,False
+38390,Honda Accord,False,False
+229167,Volvo S40,False,False
+22533,Kia Picanto,False,False
+199884,Volkswagen UP!,False,False
+46891,Peugeot 107,False,False
+183177,Peugeot 308,False,False
+233642,Skoda Octavia,False,False
+210573,Kia Picanto,False,False
+217257,Hyundai Getz,False,False
+229239,Hyundai H-1,False,False
+216435,Citroën C4 Cactus,False,False
+191263,Peugeot 206,False,False
+209747,Dacia Duster,False,False
+127931,Dacia Duster,False,False
+218194,Audi A3,False,False
+222359,Hyundai i10,False,False
+219774,Land Rover Discovery Sport,False,False
+214408,Skoda Octavia,False,False
+220200,Opel Astra,False,False
+197841,Volkswagen Golf,False,False
+180343,Ford C-Max,False,False
+233820,Peugeot 107,False,False
+209044,Suzuki Swift,False,False
+137370,Ford Fiesta,False,False
+222523,Fiat 500C,False,False
+223618,DS 7 Crossback,False,False
+163926,Citroen C4,False,False
+181190,Volkswagen UP!,False,False
+219900,Volkswagen UP!,False,False
+222339,Audi A3,False,False
+224001,Kia Picanto,False,False
+186123,Seat Mii,False,False
+226113,Hyundai Matrix,False,False
+184316,SMART Fortwo,False,False
+204479,Volkswagen UP!,False,False
+215763,BMW i3,False,False
+15787,Tesla Model S,False,False
+44213,Opel Corsa,False,False
+217483,Seat Ibiza,False,False
+218008,Suzuki Swift,False,False
+41842,Mercedes E-Class,False,False
+55655,Honda Jazz,False,False
+222199,Citroën C3,False,False
+226281,Mercedes CLA,False,False
+218027,Skoda Superb,False,False
+223641,BMW i3,False,False
+226901,Fiat Freemont,False,False
+40155,Renault Master,False,False
+227606,Toyota AYGO,False,False
+208047,Citroën Berlingo,False,False
+232515,Mercedes A-Class,False,False
+220626,Citroën Grand C4 Picasso,False,False
+184712,Volkswagen Polo,False,False
+187925,Seat Leon,False,False
+197241,Volkswagen UP!,False,False
+46787,Nissan Qashqai,False,False
+234326,Volvo S60,False,False
+216371,BMW 4 Series,False,False
+112191,Volkswagen Polo,False,False
+209075,Ford Transit,False,False
+214995,Ford Fiesta,False,False
+39025,Suzuki Alto,False,False
+199898,Renault Megane,False,False
+52584,Mitsubishi Space Star,False,False
+212751,Fiat 500L,False,False
+8423,Seat Ibiza,False,False
+216800,Peugeot 206+,False,False
+226027,Peugeot 107,False,False
+226060,Volkswagen Polo,False,False
+227341,Chevrolet Aveo,False,False
+169835,Tesla Model S,False,False
+212526,Citroën C3,False,False
+197903,Opel Corsa,False,False
+228502,Peugeot 107,False,False
+220776,Volkswagen UP!,False,False
+210837,Mazda 6,False,False
+36040,Volvo V50,False,False
+216905,Toyota AYGO,False,False
+221575,Honda Civic,False,False
+226095,Chevrolet Spark,False,False
+226970,Citroën C4 Picasso,False,False
+140071,Tesla Model S,False,False
+221251,Suzuki Grand Vitara,False,False
+220420,Volkswagen Passat,False,False
+182069,Suzuki Celerio,False,False
+226580,Volkswagen Polo,False,False
+27241,SMART Fortwo,False,False
+214293,Peugeot 2008,False,False
+221479,Opel Astra,False,False
+211436,Toyota Yaris,False,False
+26166,Opel Adam,False,False
+225654,Mitsubishi Space Star,False,False
+217921,BMW 3 Series,False,False
+225931,Hyundai i10,False,False
+144316,Skoda Citigo,False,False
+227295,Seat Ibiza ST,False,False
+199548,Volkswagen Golf,False,False
+185244,Renault Clio HB,False,False
+226960,Volkswagen UP!,False,False
+229115,Peugeot 308,False,False
+226823,Toyota AYGO,False,False
+205643,Hyundai i10,False,False
+201070,Hyundai i20,False,False
+193944,Toyota AYGO,False,False
+210061,Peugeot 208,False,False
+220591,Mercedes E-Class,False,False
+189532,Renault Laguna,False,False
+139404,Volvo XC40,False,False
+177796,Toyota AYGO,False,False
+219295,Peugeot 206+,False,False
+208433,Fiat 500,False,False
+224710,Citroën Grand C4 Picasso,False,False
+18892,Mercedes C-Class,False,False
+219051,Ford Ka,False,False
+232762,Toyota Yaris,False,False
+143851,Mazda 3,False,False
+228062,Mercedes C-Class,False,False
+228947,Citroën C3 Picasso,False,False
+219816,MINI Cooper,False,False
+195968,Suzuki Celerio,False,False
+204134,Audi A6,False,False
+218945,Hyundai i10,False,False
+220762,Alfa Romeo Giulia,False,False
+35772,Tesla Model S,False,False
+228392,Fiat 500,False,False
+207790,Toyota C-HR ,False,False
+178545,Skoda Fabia,False,False
+229927,Tesla Model 3,False,False
+223636,Hyundai i20,False,False
+213939,Tesla Model 3,False,False
+208647,Peugeot 208,False,False
+131325,Skoda Superb,False,False
+78509,Peugeot 207,False,False
+139802,Mazda 2,False,False
+222686,Peugeot 107,False,False
+203322,Volkswagen Passat CC,False,False
+226038,Skoda Fabia,False,False
+110486,Seat leon ,False,False
+219121,Audi A3,False,False
+184461,BMW 5 Series,False,False
+185057,Skoda Octavia,False,False
+204766,Citroën DS3,False,False
+213684,Tesla Model S,False,False
+11729,Seat Ibiza,False,False
+221350,Nissan Qashqai,False,False
+225454,Suzuki Liana,False,False
+226920,Volkswagen UP!,False,False
+151079,Volkswagen UP!,False,False
+221883,Mazda 6,False,False
+221989,Seat Toledo,False,False
+222290,Fiat 500,False,False
+222335,Suzuki Swift,False,False
+208686,Fiat Grande Punto,False,False
+213092,BMW 3 Series,False,False
+183571,BMW 3 Series,False,False
+229215,Skoda Citigo,False,False
+221465,Fiat 500,False,False
+218692,Seat Mii,False,False
+226520,Seat Arona,False,False
+126149,Suzuki Swift,False,False
+209284,Ford Focus,False,False
+227736,Citroën C1,False,False
+222179,Toyota AYGO,False,True
+227280,Kia Ceed,False,False
+210296,Renault Clio HB,False,False
+210838,Peugeot 307,False,False
+214329,Opel Tigra,False,False
+222287,Toyota Yaris,False,False
+190166,Mazda 6,False,False
+223489,MINI Cooper,False,False
+229933,Skoda Citigo,False,False
+215109,Citroën Xsara Picasso,False,False
+185912,Toyota AYGO,False,False
+211819,Tesla Model S,False,False
+180613,Toyota Yaris,False,False
+180804,Skoda Citigo,False,False
+188521,Ford Mondeo,False,False
+189350,Volkswagen UP!,False,False
+199182,Suzuki Liana,False,False
+137581,Audi A3,False,False
+96643,Volkswagen Golf,False,False
+114911,Honda Civic,False,False
+229197,Volkswagen Golf,False,False
+229813,Chevrolet Spark,False,False
+232291,MINI Cooper,False,False
+202967,Tesla Model S,False,False
+228711,Peugeot 107,False,False
+201446,Suzuki Swift,False,False
+209080,Volkswagen UP!,False,False
+210415,Seat Ibiza ST,False,False
+214205,Kia Rio,False,False
+6591,Peugeot 308,False,False
+39454,Hyundai i40,False,False
+50515,Toyota Auris,False,False
+196039,Citroën C1,False,False
+227788,Toyota RAV4,False,False
+213860,Skoda Octavia,False,False
+50952,Fiat Punto,False,False
+223127,Mitsubishi Outlander,False,False
+25938,Skoda Citigo,False,False
+134999,Hyundai i10,False,False
+215369,Dacia Duster,False,False
+76777,Honda Jazz,False,False
+216543,Peugeot 107,False,False
+221583,Citroën C3,False,False
+222760,Kia Carens,False,False
+223123,Fiat Panda,False,False
+182395,Opel Astra,False,False
+212081,Citroën C4,False,False
+225142,Volkswagen Polo,False,False
+44911,Hyundai i30,False,False
+228041,Kia Ceed,False,False
+206079,Skoda Fabia,False,False
+64984,Skoda,False,False
+228867,Skoda Octavia,False,False
+195601,Tesla Model 3,False,False
+91236,"Toyota Aygo Plus 1,0 ",False,False
+204432,Volkswagen California,False,False
+19632,"VW Polo Bluemotion 1,6 TDi",False,False
+188817,Peugeot 308,False,False
+189749,Toyota AYGO,False,False
+193947,Peugeot 208,False,False
+196636,Tesla Model 3,False,False
+204683,Ford Focus,False,False
+36374,Ford Fiesta,False,False
+206316,Hyundai Getz,False,False
+207146,Volvo V60,False,False
+208793,Ford Fiesta,False,False
+215110,Ford Fiesta,False,False
+215568,Citroën C1,False,False
+215633,Citroën C3 Picasso,False,False
+216820,Seat Leon,False,False
+218819,Toyota AYGO,False,False
+221671,Mercedes GLA,False,False
+222332,Audi A6,False,False
+222526,Volkswagen UP!,False,False
+223900,Peugeot 206+,False,False
+36334,Peugeot 307,False,False
+228443,Opel Karl,False,False
+222486,Nissan Qashqai,False,False
+226488,Fiat Tipo,False,False
+191985,Fiat 500,False,False
+229011,Peugeot 208,False,False
+198269,Nissan LEAF,False,False
+42177,Mazda 6,False,False
+126937,Chausson,False,False
+208429,Nissan Micra,False,False
+209808,Seat Mii,False,False
+217252,Citroën C1,False,False
+217696,Volkswagen Polo,False,False
+224609,Volkswagen UP!,False,False
+181058,Kia Ceed,False,False
+45063,Audi A3,False,False
+12907,Peugeot 208,False,False
+46932,Volkswagen UP!,False,False
+19787,Citroën C4 Cactus,False,False
+72914,Skoda Citigo,False,False
+214168,Volkswagen UP!,False,False
+99598,Skoda Citigo,False,False
+232911,Fiat 500,False,False
+207057,Citroën Berlingo,False,False
+220671,Nissan Qashqai,False,False
+219147,Toyota AYGO,False,False
+9223,Toyota Yaris,False,False
+117959,Volvo V40,False,False
+221567,Renault Trafic,False,False
+46298,Renault Captur,False,False
+224338,Seat Ibiza ST,False,False
+201949,Tesla Model S,False,False
+217273,Peugeot 208,False,True
+45691,Citroen C3,False,False
+158770,Volkswagen Arteon,False,False
+225900,Opel Corsa,False,False
+207598,Peugeot Boxer,False,False
+224221,Seat Leon,False,False
+207033,Iveco Daily,False,False
+132986,Volkswagen Polo,False,False
+221511,Ford Fiesta,False,False
+225299,Hyundai i20,False,False
+234053,Volkswagen Touran,False,True
+55094,Toyota Avensis,False,False
+137997,Volkswagen UP,False,False
+224470,Opel Corsa,False,False
+218560,Ford Fiesta,False,False
+219140,Fiat 500,False,False
+216968,Volkswagen UP!,False,False
+48249,Skoda Citigo,False,False
+219085,Toyota AYGO,False,False
+226700,Opel Corsa,False,False
+155330,Peugeot 206+,False,False
+225700,BMW 1 Series,False,False
+216229,Volkswagen Jetta,False,False
+203346,Nissan Qashqai,False,False
+214588,Skoda Citigo,False,False
+234367,Renault Clio HB,False,True
+223795,Citroën C1,False,False
+221746,Kia Ceed,False,False
+61991,Toyota AYGO,False,False
+218493,Toyota AYGO,False,False
+234685,Renault Clio HB,False,False
+234371,Ford Focus,False,True
+233612,Seat Ibiza,False,False
+234090,Toyota AYGO,False,False
+234580,Skoda Citigo,False,False
+233963,Peugeot 206+,False,False
+234012,Peugeot 107,False,False
+234044,Toyota AYGO,False,False
+234101,Kia Ceed SW,False,False
+234453,Volkswagen UP!,False,False
+223888,Suzuki Alto,False,False
+223739,Hyundai i30,False,False
+234303,Fiat 500,False,False
+234450,Skoda Octavia,False,False
+233811,Nissan Qashqai+2,False,False
+234338,Toyota AYGO,False,False
+234521,Kia Picanto,False,False
+230175,Kia Picanto,False,False
+233398,Renault Twingo,False,False
+234458,Suzuki Jimny,False,False
+234555,Opel Karl,False,False
+205738,Mazda 6,False,False
+234683,Citroën C1,False,False
