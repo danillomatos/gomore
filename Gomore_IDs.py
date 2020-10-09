@@ -48,8 +48,11 @@ def get_car_IDs(location =
 		for boxes in content:
 				#getting only the links (href) in the html parsing, thereafter grabbing the car IDs
 			full_link = boxes.find('a', href = True)['href']
-			only_ID = full_link.split('/lejebil/')[1].split('?')[0]
 			text = boxes.find(class_="mb0 trunc-line").get_text()
+			
+			while only_ID in car_IDs:
+				only_ID = full_link.split('/lejebil/')[1].split('?')[0]
+				time.sleep(3) # Wait until new page loads
 
 			if boxes.find(class_="inline-block ml2") ==  None:
 				thunderbolt = False
@@ -76,7 +79,6 @@ def get_car_IDs(location =
 			#clicking the next page button until there is no next page
 			next_page_button = driver.find_element_by_id("next")
 			next_page_button.click()
-			time.sleep(3)
 		except:
 			print('last page found! (or something might have gone wrong!)')
 			break
